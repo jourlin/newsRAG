@@ -434,8 +434,8 @@ class Toolkit:
                 for field in ai_generated_prompts.keys():
                     filename = doc.metadata["file_path"].strip(".xml")+'.'+field+'.html'
                     with open(filename, "w") as file:
-                        #file.write(markdown(self.get_ai_generated_field("\n".join(root.xpath('//text()'))[:self.token_limit], field)))
-                        file.write("# None")
+                        file.write(markdown(self.get_ai_generated_field("\n".join(root.xpath('//text()'))[:self.token_limit], field)))
+                        #file.write("# None")
             # embedding model
             Settings.embed_model = self.embed_model
             # ollama
