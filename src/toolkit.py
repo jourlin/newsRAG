@@ -474,6 +474,8 @@ class Toolkit:
             ent_id=0
             for ent in tqdm(entity_desc):
                 filename=ent.replace(" ", "_").replace("/", " ")+".txt"
+                if len(filename)>50:
+                    continue
                 path = self.ent_document_dir + str(ent_id)[:6].replace("",'/')
                 os.makedirs(path, exist_ok=True)
                 with open(path+filename, "a+") as file:
