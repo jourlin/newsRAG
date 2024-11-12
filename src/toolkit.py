@@ -25,6 +25,8 @@ import feedparser
 import xmltodict
 import base64 
 from urllib.parse import urlparse
+import json
+from json2html import json2html
 
 import deeplake
 import lxml.etree as ET
@@ -36,13 +38,13 @@ from llama_index.core.llms import ChatMessage
 from llama_index.vector_stores.deeplake import DeepLakeVectorStore
 from llama_index.core.memory import ChatMemoryBuffer
 
-# pattern for matching UMLS IDs
+# pattern for matching ENT IDs
 concept_pattern = re.compile("^c[0-9]+$")
 # pattern for SQL-formatted dates
 date_pattern = re.compile("^[0-9]{8}$")
 # Ai generated field names and associated prompts
 ai_generated_prompts = {
-    "entities" : ["Entités", "Liste les entités nommées et leur relations. Répond en français et en moins de 50 mots : "]
+    "entities" : ["Entités", "Extrait un objet JSON contenant la liste (champ 'entités') des entitées nommées (champ 'Nom') associées à leur description (champ 'Description').  : "]
 }
 # XML field and how to access them
 xml_extraction_data = [
@@ -101,7 +103,7 @@ class Toolkit:
             read_only : bool
                 Should we open the indexes only for search or for creating and populating
             index_name : str
-                "EP" stands for full-text patents, "UMLS" stands for UMLS entities, "BOTH" stands for both indexes
+                "EP" stands for full-text patents, "ENT" stands for ENT entities, "BOTH" stands for both indexes
         Returns
         -------
             Toolkit
@@ -214,7 +216,7 @@ class Toolkit:
                 of retrieved documents as a HTML table 
         """
         if not query_is_file:
-            # First expand all UMLS concepts contained in the query
+            # First expand all ENT concepts contained in the query
             query = self.expand_query(query)
         # LLama Index does not provide the search() method for its embedded Deeplake stores, so : 
         store = deeplake.core.vectorstore.deeplake_vectorstore.DeepLakeVectorStore(path=self.vector_dir)
@@ -284,8 +286,8 @@ class Toolkit:
 
     def extend(self, query):
         """
-        Retrieve UMLS entities by performing a K Nearest Neighbours, 
-        based on query and UMLS embeddings 
+        Retrieve entities by performing a K Nearest Neighbours, 
+        based on query and entity embeddings 
         
         Parameters
         ----------
@@ -295,14 +297,15 @@ class Toolkit:
         -------
             str
                 a string that contains an ordered list of 
-                retrieved UMLS concepts as a HTML table
+                retrieved entities as a HTML table
         """
-        store = deeplake.core.vectorstore.deeplake_vectorstore.DeepLakeVectorStore(path=self.umls_vector_dir)
+        store = deeplake.core.vectorstore.deeplake_vectorstore.DeepLakeVectorStore(path=self.ent_vector_dir)
         result = store.search(embedding_data=query, embedding_function=self.embed_model.get_text_embedding, k=self.span_top_k)
         # Get retrieved concept IDs and their contents
         concept_list = [result['metadata'][offset]['file_name'] for offset in range(0, len(result['metadata']))]
+        # print(result['text'])
         content_list = [result['text'][offset] for offset in range(0, len(result['text']))]
-        output="<table><tr><th>select</th><th>concept</th><th>alternatives</th></tr>\n"
+        output="<table><tr><th>sélection</th><th>entité</th><th>description</th></tr>\n"
         num_lines=0
         for offset in range(0, len(result['text'])):
             num_lines+=1
@@ -313,7 +316,7 @@ class Toolkit:
             # Don't display long descriptions
             forms= [html2text(x) for x in content_list[offset].split("\n") if x !="" and len(x)<int(os.getenv('MAX_LEN_FOR_CONCEPT_DESC'))]
             # Don't display spurious forms
-            forms = sorted(list(filter(lambda f: len(f)>3, forms)))
+            #forms = sorted(list(filter(lambda f: len(f)>3, forms)))
             if len(forms)<=0: # skip if concept has no form
                 continue
             # HTML for the row of selectable concept
@@ -332,7 +335,7 @@ class Toolkit:
         Parameters
         ----------
             query : str
-                input query text that might contain UMLS entities IDs
+                input query text that might contain entities IDs
         Returns
         -------
             str
@@ -356,18 +359,38 @@ class Toolkit:
                 the expanded query text
         """
         terms=query.split()
-        # get UMLS concepts from query
+        # get entities from query
         concepts = list(filter(lambda t: concept_pattern.match(t), terms))
-        # remove UMLS concepts from query
+        # remove entities from query
         filtered = list(filter(lambda t: not concept_pattern.match(t), terms))
         query = " ".join(filtered)
         # do query expansion
         for concept in concepts:
-            with open(self.umls_document_dir+"/"+concept[:4]+"/"+concept+".txt") as f:
+            with open(self.ent_document_dir+"/"+concept[:4]+"/"+concept+".txt") as f:
                 content = f.readlines()
             query+=" "+html2text(" ".join(content)).replace('\n', ' ')
         return query
 
+    def get_json(self, input_text):
+        output=""
+        inside=False
+        for line in input_text.split('\n'):
+            if line[:3]=="```":
+                inside = not inside
+                continue
+            if inside:
+                output+=line
+        try:
+            output = json.loads(output)
+            if type(output) is list:
+                output = {"entités": output}
+            if "entités" not in output:
+                field_name = output.keys()[0]
+                output = {"entités": output[field_name]}
+            return output          
+        except:
+            return {"entités": []}
+            
     def reindex(self, index_name):
         """
         Load, store, index data as vectors of text spans embedding
@@ -419,6 +442,7 @@ class Toolkit:
             print("loading data...")
             documents = SimpleDirectoryReader(self.document_dir, recursive=True).load_data(num_workers=int(os.getenv('NUM_WORKERS')))
             print("Extract AI generated fields...")
+            entity_desc=dict()
             for doc in tqdm(documents):
                 if len(doc.text) == 0:
                     continue
@@ -434,15 +458,33 @@ class Toolkit:
                 for field in ai_generated_prompts.keys():
                     filename = doc.metadata["file_path"].strip(".xml")+'.'+field+'.html'
                     with open(filename, "w") as file:
-                        file.write(markdown(self.get_ai_generated_field("\n".join(root.xpath('//text()'))[:self.token_limit], field)))
+                        generated_text=self.get_ai_generated_field("\n".join(root.xpath('//text()'))[:self.token_limit], field)
+                        generated_entities = self.get_json(generated_text)
+                        #print(generated_entities)
+                        entity_list = generated_entities['entités']
+                        for entity in entity_list:
+                            if "Description" in entity and type(entity["Description"]) is str:
+                                if entity["Nom"] in entity_desc:
+                                    entity_desc[entity["Nom"]]+=entity["Description"]+'\n'
+                                else:
+                                    entity_desc[entity["Nom"]]=entity["Description"]+'\n'
+                        file.write(json2html.convert(json = generated_entities))
                         #file.write("# None")
+            # Write entities and their descriptions to files
+            ent_id=0
+            for ent in tqdm(entity_desc):
+                filename=ent.replace(" ", "_").replace("/", " ")+".txt"
+                path = self.ent_document_dir + str(ent_id)[:6].replace("",'/')
+                os.makedirs(path, exist_ok=True)
+                with open(path+filename, "a+") as file:
+                    file.write(ent+'\n'+entity_desc[ent])
+                ent_id+=1
             # embedding model
             Settings.embed_model = self.embed_model
             # ollama
             Settings.llm = self.llm_settings
             print("Indexing articles can take some time...")
-            os.system("rm -fr "+self.vector_dir)
-            os.system("mkdir "+self.vector_dir)
+            os.system("mkdir -p"+self.vector_dir)
             self.index = VectorStoreIndex.from_documents(
                 documents, show_progress=True, storage_context=self.storage_context
             )
@@ -458,12 +500,12 @@ class Toolkit:
             # ollama
             Settings.llm = self.llm_settings
             print("Indexing concepts can take some time...")
-            self.umls_index = VectorStoreIndex.from_documents(
+            self.ent_index = VectorStoreIndex.from_documents(
                 concepts, show_progress=True, storage_context=self.ent_storage_context
             )
             print("Indexing concepts completed...")
         if index_name not in ["WIKI", "NEWS", "BOTH"]:
-            print("Error : Invalid index name. Choose 'EP' for patents or 'UMLS' for concepts", file=sys.stderr)
+            print("Error : Invalid index name. Choose 'NEWS' for patents or 'ENT' for entities", file=sys.stderr)
 
     def patchat(self, question):
         """
