@@ -130,7 +130,7 @@ def textchat():
 # use UMLS for UMLS concept or EP for patents
 @app.cli.command("reindex")
 @click.argument("index_name")
-def reindex(index_name):
+def reindex(index_name="BOTH"):
     """Regenerate the Deeplake store."""
     global toolkit 
     # Need to write the index
