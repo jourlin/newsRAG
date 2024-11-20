@@ -443,6 +443,9 @@ class Toolkit:
             documents = SimpleDirectoryReader(self.document_dir, recursive=True).load_data(num_workers=int(os.getenv('NUM_WORKERS')))
             print("Extract AI generated fields...")
             entity_desc=dict()
+            doc_limit=int(os.getenv("DOC_LIMIT"))
+            if doc_limit>0:
+                documents=documents[:doc_limit]
             for doc in tqdm(documents):
                 if len(doc.text) == 0:
                     continue
