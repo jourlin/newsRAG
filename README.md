@@ -1,4 +1,4 @@
-# NewsRAG: A simple retrieval and retrieval-augmented generative AI chatbot for news analysis any natural language
+# NewsRAG: A simple retrieval and retrieval-augmented generative AI chatbot for multilingual RSS content analysis
 (c) *Pierre Jourlin*, 2024, _Avignon Université_, _Laboratoire d'informatique d'Avignon (LIA)_
 
 November, 2024
@@ -16,7 +16,13 @@ Documentation :
 
 # Functionalities 
 
-The proposed project aims to develop a Retrieval-Augmented Generation (RAG) AI system designed to simplify information extraction from RSS feeds. The system leverages Wikipedia page titles and abstracts for initial query expansion, the LlamaIndex Python framework and the various Large Language model (LLM) for natural language "understanding" and generation, and a document set composed of news feeds. As the original user's query can be short and somehow fuzzy, it can be expanded by searching for most relevant Wikipedia entities. At that point, the user has a chance to desambiguate query terms. The primary function of the system is to identify and present the most relevant news information that closely match the user's query. The secondary function of the system is to provide a chatbot to question the information contained in the selected news abstracts. The chatbot can be used to ask open-ended questions in natural language, which can correspond to classic tasks such as automatic summarization, comparisons of several news from different angles, etc. The chatbot takes into account the history of the conversation, making it easier to refine the initial query.
+The proposed project aims to develop a Retrieval-Augmented Generation (RAG) AI system designed to simplify information extraction from RSS feeds. The system leverages :
+- LLMs for entity extraction on titles, abstracts and image captions for initial query expansion
+- The LlamaIndex Python framework and the various Large Language model (LLM) for natural language "understanding" and generation
+- a document set composed of news feeds. As the original user's query can be short and somehow fuzzy, it can be expanded by searching for most relevant Wikipedia entities. At that 1st stage, the user has a chance to desambiguate query terms. 
+
+The primary function of the system is to identify and present the most relevant news information that closely match the user's query. 
+The secondary function of the system is to provide a chatbot to question the information contained in the selected news information. The chatbot can be used to ask open-ended questions in natural language, which can correspond to classic tasks such as automatic summarization, comparisons of several news from different angles, etc. The chatbot takes into account the history of the conversation, making it easier to refine the initial query.
 (more information in [USER_GUIDE.md](/docs/USER_GUIDE.md))
 
 # Justification of technical choices
@@ -46,11 +52,10 @@ This is a small, highly demonstrative, yet reasonably simple system that could b
 
 Furthermore, the **efficiency** is such that the software was developped and tested on a mid-range laptop computer with 1Tb SSD, 32Gb RAM and 6Gb VRAM GPU. With such a configuration, response times are short enough to deliver a high-quality user experience. In some applications were **security** and **confidentality** is a major issue, it is worth noting that the software can **run offline** and smoothly on a entry-level **gaming computer**. So even for the longuest stages such as indexing, the **electrical consumption** and **ecological impact** is mitigated. 
 
-X% of code is written in Python using the Flask module. It's a language that is now widely taught, including in continuing education and in disciplines other than computer science. Other languages, even if justified by the presence of a web interface or, to a lesser extent, the pre-processing of raw data, account for a small proportion of the code:
-- JavaScript X%
-- HTML X%
-- CSS X%
-- Shell X%
+73% of code is written in Python using the Flask module. It's a language that is now widely taught, including in continuing education and in disciplines other than computer science. Other languages, even if justified by the presence of a web interface or, to a lesser extent, the pre-processing of raw data, account for a small proportion of the code:
+- JavaScript 19%
+- HTML 4%
+- CSS 3.5%
 
 Finally, the algorithms involved are complex, but it is possible to explain them simply, although this is not the purpose of this document:
 - tokenization
@@ -70,6 +75,6 @@ It has only 2 possible entries:
 
 There is only 3 possible actions that take into account the history of use of the web application:
 
-- Query extension by adding medical concepts to compensate for the user's implicit intentions
-- Patent search, with display of meta-data present in the document, as well as AI-generated fields
+- Query extension by adding automatically extracted concepts to compensate for the user's implicit intentions
+- News search, with display of meta-data present in the document, as well as AI-generated fields
 - Chatbot, with _streaming_ display, minimizing user waiting time, and _a posteriori_ formatting, facilitating export (by copy-paste) of Llama3 responses.
