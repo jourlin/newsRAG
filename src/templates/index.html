@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NewsRAG</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='newsrag.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="{{ url_for('static', filename='newsrag.js') }}"></script>
+</head>
+<body>
+    <h2 style="text-align:center">News RAG</h2>
+    <h3 style="text-align:center">Agent conversationnel et recherche d'information dans les actualités</h3>
+    <div id="history"></div>
+    <div id="response"></div>
+    <div id="waiter" style="display: none" class="blink_me"><i>Attendez svp...</i></div>
+<hr>
+<div style="text-align: center">
+    <button type="button" onclick="toggle_input()">text ⇄ file</button>
+    <!-- Input query field -->
+    <input type="search" id="query" name="query" size="100" placeholder="Type your query here" onkeydown="do_nothing()" onkeyup="do_nothing()" required /></form></body>
+    <br>
+    <!-- Run query expansion button -->
+    <button type="button" onclick="extend()">Étendre</button>
+    <!-- Run Patent search button -->
+    <button type="button" onclick="search()">Recherche</button>
+    <!-- Run Chatbot button -->
+    <button type="button" onclick="chat()">Conversation</button>
+</div>
+</body>
+</html>
