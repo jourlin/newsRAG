@@ -12,7 +12,7 @@ You might need to adapt some parts to fit your computer and its operating system
 
 ## Step 2: Install Flask server
 
-1. Commands to run in your linux terminal
+- Commands to run in your linux terminal
 
 1. ```cd newsRAG``` 
 2. ```python -m venv .```
@@ -21,11 +21,10 @@ You might need to adapt some parts to fit your computer and its operating system
 5. Edit ```./src/.env``` to match your local system
 
 ## Step 3: Edit your RSS sources
-- Edit ```./resources/newslist.tsv``` to modify the list of RSS source url
+6. Edit ```./resources/newslist.tsv``` to modify the list of RSS source url
 
-## Step 4: Install and start ollama
-
-6. Install Ollama and pull llama3:
+## Step 4: Install and start ollama
+7. Install Ollama and pull llama3:
 - Without root privileges
 ```
 wget https://github.com/ollama/ollama/releases/download/v0.3.9/ollama-linux-amd64.tgz
@@ -51,7 +50,7 @@ ollama pull llama3
 - ```flask run -h 0.0.0.0 -p <P>``` allows external access, listening on port ```<P>```
 
 ## Step 7: Use the retriever and chatbot
-1. Open [http://127.0.0.1:5000](http://127.0.0.1:5000) with a web browser
+- Open [http://127.0.0.1:5000](http://127.0.0.1:5000) with a web browser
 
 ## Step 8: User guide
 Have a look at [USER_GUIDE.md](./USER_GUIDE.md) for instructions and explanation of user's interface
