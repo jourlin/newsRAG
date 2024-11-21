@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>La mort du batteur de jazz américain Roy Haynes</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/musiques/rss_full.xml</base>
+		<value>La mort du batteur de jazz américain Roy Haynes</value>
+	</title_detail>
+	<published>Wed, 13 Nov 2024 19:00:12 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>13</published_parsed>
+	<published_parsed>18</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>12</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>318</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Ce musicien sans œillères à l’exceptionnelle longévité, partenaire des plus grands noms du jazz, s’est éteint le 12 novembre à 99 ans.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/musiques/rss_full.xml</base>
+		<value>Ce musicien sans œillères à l’exceptionnelle longévité, partenaire des plus grands noms du jazz, s’est éteint le 12 novembre à 99 ans.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/disparitions/article/2024/11/13/la-mort-du-batteur-de-jazz-americain-roy-haynes_6392182_3382.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/disparitions/article/2024/11/13/la-mort-du-batteur-de-jazz-americain-roy-haynes_6392182_3382.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/disparitions/article/2024/11/13/la-mort-du-batteur-de-jazz-americain-roy-haynes_6392182_3382.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2011/10/05/177/0/4256/2128/644/322/60/0/ill_1582406_024b_roy-haynes.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/musiques/rss_full.xml</base>
+		<value>Le batteur Roy Haynes, à Paris, en mars 2009.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>AFP/BORIS HORVAT</content>
+	</media_credit>
+	<credit>AFP/BORIS HORVAT</credit>
+</article>

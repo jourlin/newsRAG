@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Le Genoscope d’Evry, la machine à décrypter l’ADN</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/biologie/rss_full.xml</base>
+		<value>Le Genoscope d’Evry, la machine à décrypter l’ADN</value>
+	</title_detail>
+	<published>Mon, 07 Oct 2024 17:30:04 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>15</published_parsed>
+	<published_parsed>30</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>281</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>La plate-forme spécialisée dans la génomique environnementale sera chargée d’analyser les 4 500 spécimens d’eucaryotes marins prélevés par le programme Atlasea.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/biologie/rss_full.xml</base>
+		<value>La plate-forme spécialisée dans la génomique environnementale sera chargée d’analyser les 4 500 spécimens d’eucaryotes marins prélevés par le programme Atlasea.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/10/07/le-genoscope-d-evry-la-machine-a-decrypter-l-adn_6346056_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/10/07/le-genoscope-d-evry-la-machine-a-decrypter-l-adn_6346056_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/10/07/le-genoscope-d-evry-la-machine-a-decrypter-l-adn_6346056_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/07/398/0/4804/2402/644/322/60/0/ac5022d_1728289935726-000-u84yh.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/biologie/rss_full.xml</base>
+		<value>Un échantillon de corail dans une éprouvette au Centre national de séquençage (Genoscope) à Evry, le 9 novembre 2017.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>CHRISTOPHE ARCHAMBAULT/AFP</content>
+	</media_credit>
+	<credit>CHRISTOPHE ARCHAMBAULT/AFP</credit>
+</article>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>A Grenoble, des chercheurs décroissants volontaires</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/physique/rss_full.xml</base>
+		<value>A Grenoble, des chercheurs décroissants volontaires</value>
+	</title_detail>
+	<published>Thu, 13 Jun 2024 17:00:08 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>13</published_parsed>
+	<published_parsed>15</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>165</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>A l’Institut Néel, un groupe de physiciens lance une expérience d’un genre nouveau : réussir à faire de la recherche avec plus de sobriété. Et réclame une baisse du budget de fonctionnement corrélée à une réflexion sur l’impact environnemental de leurs pratiques.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/physique/rss_full.xml</base>
+		<value>A l’Institut Néel, un groupe de physiciens lance une expérience d’un genre nouveau : réussir à faire de la recherche avec plus de sobriété. Et réclame une baisse du budget de fonctionnement corrélée à une réflexion sur l’impact environnemental de leurs pratiques.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/06/13/a-grenoble-des-chercheurs-decroissants-volontaires_6239600_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/06/13/a-grenoble-des-chercheurs-decroissants-volontaires_6239600_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/06/13/a-grenoble-des-chercheurs-decroissants-volontaires_6239600_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2023/04/14/62/0/4253/2126/644/322/60/0/b556153_1681481722608-le-monde-la-vie-des-labos-def-01.jpg</url>
+	</media_content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>CHEZ GERTRUD</content>
+	</media_credit>
+	<credit>CHEZ GERTRUD</credit>
+</article>

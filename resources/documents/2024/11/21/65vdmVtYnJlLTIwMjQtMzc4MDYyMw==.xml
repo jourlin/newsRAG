@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>La feelgood musique de Bernhoft</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/franceinter/rss</base>
+		<value>La feelgood musique de Bernhoft</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.radiofrance.fr/franceinter/podcasts/musicaline/musicaline-du-jeudi-21-novembre-2024-3780623</href>
+	</links>
+	<links>
+		<type>image/jpeg</type>
+		<length>1337</length>
+		<href>https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/4eeec17b-ed18-4f38-bbe4-46bea4e5d21a/560x315_sc_gettyimages-1998766597-1.jpg</href>
+		<rel>enclosure</rel>
+	</links>
+	<link>https://www.radiofrance.fr/franceinter/podcasts/musicaline/musicaline-du-jeudi-21-novembre-2024-3780623</link>
+	<summary>Embarquement immédiat pour la Norvège avec Bernhoft réputé internationalement pour sa musique soul, pop et funk. En concert ce dimanche à Paris.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/franceinter/rss</base>
+		<value>Embarquement immédiat pour la Norvège avec Bernhoft réputé internationalement pour sa musique soul, pop et funk. En concert ce dimanche à Paris.</value>
+	</summary_detail>
+	<published>Thu, 21 Nov 2024 06:23:10 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>23</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>326</published_parsed>
+	<published_parsed>0</published_parsed>
+	<id>https://www.radiofrance.fr/franceinter/podcasts/musicaline/musicaline-du-jeudi-21-novembre-2024-3780623</id>
+	<guidislink>false</guidislink>
+</article>

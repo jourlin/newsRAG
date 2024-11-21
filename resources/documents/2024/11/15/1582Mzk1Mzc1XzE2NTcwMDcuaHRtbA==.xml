@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>L’arte povera rattrapé par le marché</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/argent/rss_full.xml</base>
+		<value>L’arte povera rattrapé par le marché</value>
+	</title_detail>
+	<published>Fri, 15 Nov 2024 16:00:20 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>15</published_parsed>
+	<published_parsed>15</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>20</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>320</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Ce mouvement révolutionnaire, né en Italie à la fin des années 1960, jouit de l’engouement constant des collectionneurs.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/argent/rss_full.xml</base>
+		<value>Ce mouvement révolutionnaire, né en Italie à la fin des années 1960, jouit de l’engouement constant des collectionneurs.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/argent/article/2024/11/15/l-arte-povera-rattrape-par-le-marche_6395375_1657007.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/argent/article/2024/11/15/l-arte-povera-rattrape-par-le-marche_6395375_1657007.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/argent/article/2024/11/15/l-arte-povera-rattrape-par-le-marche_6395375_1657007.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/05/590/0/4724/2362/644/322/60/0/98eb7c7_1730822728520-mario-merz-senza-titolo-1982-acrylic-charcoal-ink-shell-and-gauze-laid-on-cardboard-126-x-127-cm-courtesy-tornabuoni-art-1.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/argent/rss_full.xml</base>
+		<value>« Sans titre » (1982), de Mario Merz.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Courtesy Tornabuoni</content>
+	</media_credit>
+	<credit>Courtesy Tornabuoni</credit>
+</article>

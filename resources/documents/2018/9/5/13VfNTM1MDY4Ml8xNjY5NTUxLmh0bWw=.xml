@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>#officelife ou la jungle du bureau</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>#officelife ou la jungle du bureau</value>
+	</title_detail>
+	<published>Wed, 05 Sep 2018 15:15:00 +0200</published>
+	<published_parsed>2018</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>13</published_parsed>
+	<published_parsed>15</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>248</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Wed, 05 Sep 2018 15:15:00 +0200</updated>
+	<updated_parsed>2018</updated_parsed>
+	<updated_parsed>9</updated_parsed>
+	<updated_parsed>5</updated_parsed>
+	<updated_parsed>13</updated_parsed>
+	<updated_parsed>15</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>2</updated_parsed>
+	<updated_parsed>248</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Les accros des réseaux sociaux ne cessent de mettre en scène leur vie à coups de hashtags et de selfies, lançant la tendance (ou pas). Cette semaine, nos collègues préférés.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Les accros des réseaux sociaux ne cessent de mettre en scène leur vie à coups de hashtags et de selfies, lançant la tendance (ou pas). Cette semaine, nos collègues préférés.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/chroniques/article/2018/09/05/officelife-ou-la-jungle-du-bureau_5350682_1669551.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/chroniques/article/2018/09/05/officelife-ou-la-jungle-du-bureau_5350682_1669551.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/chroniques/article/2018/09/05/officelife-ou-la-jungle-du-bureau_5350682_1669551.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2018/08/29/348/0/1063/530/644/322/60/0/20c392b_2018090145.0.2177962515office_life_zalko_web.jpg</url>
+	</media_content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Aline Zalko pour M Le magazine du Monde</content>
+	</media_credit>
+	<credit>Aline Zalko pour M Le magazine du Monde</credit>
+</article>

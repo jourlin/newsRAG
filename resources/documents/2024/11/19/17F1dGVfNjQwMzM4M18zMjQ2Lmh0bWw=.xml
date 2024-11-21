@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>A Saint-Etienne, le Musée d’art moderne et contemporain s’est refait une beauté</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>A Saint-Etienne, le Musée d’art moderne et contemporain s’est refait une beauté</value>
+	</title_detail>
+	<published>Tue, 19 Nov 2024 18:00:07 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>19</published_parsed>
+	<published_parsed>17</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>324</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Wed, 20 Nov 2024 10:50:12 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>20</updated_parsed>
+	<updated_parsed>9</updated_parsed>
+	<updated_parsed>50</updated_parsed>
+	<updated_parsed>12</updated_parsed>
+	<updated_parsed>2</updated_parsed>
+	<updated_parsed>325</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Le MAMC+ rouvre, après dix-neuf mois de travaux, avec une offre étoffée et l’ambition, à terme, de s’agrandir pour rassembler toute sa collection sur place.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>Le MAMC+ rouvre, après dix-neuf mois de travaux, avec une offre étoffée et l’ambition, à terme, de s’agrandir pour rassembler toute sa collection sur place.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/culture/article/2024/11/19/a-saint-etienne-le-musee-d-art-moderne-et-contemporain-s-est-refait-une-beaute_6403383_3246.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/culture/article/2024/11/19/a-saint-etienne-le-musee-d-art-moderne-et-contemporain-s-est-refait-une-beaute_6403383_3246.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/culture/article/2024/11/19/a-saint-etienne-le-musee-d-art-moderne-et-contemporain-s-est-refait-une-beaute_6403383_3246.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/19/312/0/3508/1754/644/322/60/0/07ec150_1732022496965-mamc-0045395.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>Vue extérieure du MAMC+, à Saint-Etienne, en 2019.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>CHARLOTTE PIEROT/MAMC+</content>
+	</media_credit>
+	<credit>CHARLOTTE PIEROT/MAMC+</credit>
+</article>

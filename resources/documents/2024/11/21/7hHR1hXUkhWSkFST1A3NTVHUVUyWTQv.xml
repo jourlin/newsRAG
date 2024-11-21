@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Neige en France, grève à la SNCF, missiles en Ukraine… L’actu de ce jeudi matin</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml</base>
+		<value>Neige en France, grève à la SNCF, missiles en Ukraine… L’actu de ce jeudi matin</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.liberation.fr/international/europe/neige-en-france-greve-a-la-sncf-missiles-en-ukraine-lactu-de-ce-jeudi-matin-20241121_AIOLXGGXWRHVJAROP755GQU2Y4/</href>
+	</links>
+	<link>https://www.liberation.fr/international/europe/neige-en-france-greve-a-la-sncf-missiles-en-ukraine-lactu-de-ce-jeudi-matin-20241121_AIOLXGGXWRHVJAROP755GQU2Y4/</link>
+	<id>https://www.liberation.fr/international/europe/neige-en-france-greve-a-la-sncf-missiles-en-ukraine-lactu-de-ce-jeudi-matin-20241121_AIOLXGGXWRHVJAROP755GQU2Y4/</id>
+	<guidislink>false</guidislink>
+	<authors>
+		<name>LIBERATION,  AFP</name>
+	</authors>
+	<author>LIBERATION,  AFP</author>
+	<author_detail>
+		<name>LIBERATION,  AFP</name>
+	</author_detail>
+	<summary>La rédaction de «Libération» compile les principales infos de ce jeudi 21 novembre en début de journée.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml</base>
+		<value>La rédaction de «Libération» compile les principales infos de ce jeudi 21 novembre en début de journée.</value>
+	</summary_detail>
+	<published>Thu, 21 Nov 2024 07:17:37 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>17</published_parsed>
+	<published_parsed>37</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>326</published_parsed>
+	<published_parsed>0</published_parsed>
+	<media_content>
+		<url>https://liberation-liberation-prod.cdn.arcpublishing.com/resizer/7Bgq1TApZ_h6fruiFgagbTqmzEI=/cloudfront-eu-central-1.images.arcpublishing.com/liberation/V6EKC3TQNJFAHHCUCPYL3ARAHQ.jpg</url>
+		<type>image/jpeg</type>
+		<height>3497</height>
+		<width>5240</width>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml</base>
+		<value>Le marché de Noël à Strasbourg sous la neige mardi 19 novembre 2024.</value>
+	</content>
+	<media_credit>
+		<role>author</role>
+		<scheme>urn:ebu</scheme>
+		<content>Jean Isenmann</content>
+	</media_credit>
+	<credit>Jean Isenmann</credit>
+</article>

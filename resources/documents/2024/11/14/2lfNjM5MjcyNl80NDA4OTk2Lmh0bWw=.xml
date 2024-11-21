@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Grève d’un studio de jeux vidéo de Microsoft pour la sécurité de l’emploi</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/jeux-video/rss_full.xml</base>
+		<value>Grève d’un studio de jeux vidéo de Microsoft pour la sécurité de l’emploi</value>
+	</title_detail>
+	<published>Thu, 14 Nov 2024 03:21:34 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>34</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>319</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Thu, 14 Nov 2024 08:06:02 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>14</updated_parsed>
+	<updated_parsed>7</updated_parsed>
+	<updated_parsed>6</updated_parsed>
+	<updated_parsed>2</updated_parsed>
+	<updated_parsed>3</updated_parsed>
+	<updated_parsed>319</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Des centaines d’employés de ZeniMax participent à ce mouvement.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/jeux-video/rss_full.xml</base>
+		<value>Des centaines d’employés de ZeniMax participent à ce mouvement.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/pixels/article/2024/11/14/greve-d-un-studio-de-jeux-video-de-microsoft-pour-la-securite-de-l-emploi_6392726_4408996.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/pixels/article/2024/11/14/greve-d-un-studio-de-jeux-video-de-microsoft-pour-la-securite-de-l-emploi_6392726_4408996.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/pixels/article/2024/11/14/greve-d-un-studio-de-jeux-video-de-microsoft-pour-la-securite-de-l-emploi_6392726_4408996.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2016/05/03/321/0/3254/1627/644/322/60/0/c351e6d_5793052-01-06.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/jeux-video/rss_full.xml</base>
+		<value>Logo de Microsoft à San Francisco, en Californie, le 27 mars 2014.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>JOSH EDELSON / AFP</content>
+	</media_credit>
+	<credit>JOSH EDELSON / AFP</credit>
+</article>

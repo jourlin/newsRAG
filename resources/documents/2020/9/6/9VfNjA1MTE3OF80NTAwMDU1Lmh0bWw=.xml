@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Jean-François Piège : « Un plat peut être grand, mais un plat plus un vin peut être sublime »</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Jean-François Piège : « Un plat peut être grand, mais un plat plus un vin peut être sublime »</value>
+	</title_detail>
+	<published>Sun, 06 Sep 2020 11:15:11 +0200</published>
+	<published_parsed>2020</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>15</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>250</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Mon, 07 Sep 2020 09:16:06 +0200</updated>
+	<updated_parsed>2020</updated_parsed>
+	<updated_parsed>9</updated_parsed>
+	<updated_parsed>7</updated_parsed>
+	<updated_parsed>7</updated_parsed>
+	<updated_parsed>16</updated_parsed>
+	<updated_parsed>6</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>251</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Le chef étoilé, qui règne sur cinq restaurants à Paris, porte un soin particulier aux livres de cave de ses tables. Une passion vinicole qui remonte à son enfance drômoise.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Le chef étoilé, qui règne sur cinq restaurants à Paris, porte un soin particulier aux livres de cave de ses tables. Une passion vinicole qui remonte à son enfance drômoise.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/m-le-mag/article/2020/09/06/jean-francois-piege-un-plat-peut-etre-grand-mais-un-plat-plus-un-vin-peut-etre-sublime_6051178_4500055.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/m-le-mag/article/2020/09/06/jean-francois-piege-un-plat-peut-etre-grand-mais-un-plat-plus-un-vin-peut-etre-sublime_6051178_4500055.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/m-le-mag/article/2020/09/06/jean-francois-piege-un-plat-peut-etre-grand-mais-un-plat-plus-un-vin-peut-etre-sublime_6051178_4500055.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2020/08/31/290/0/2732/1366/644/322/60/0/f93680b_920793426-Portrait-JFP-James-Bort.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Le chef Jean-François Piège, ici au Grand Restaurant, en 2018.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>James Bort</content>
+	</media_credit>
+	<credit>James Bort</credit>
+</article>

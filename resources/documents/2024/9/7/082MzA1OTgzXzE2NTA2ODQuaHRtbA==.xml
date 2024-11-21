@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>La capsule Starliner de Boeing de retour sur Terre, sans ses deux astronautes, restés à bord de l’ISS</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>La capsule Starliner de Boeing de retour sur Terre, sans ses deux astronautes, restés à bord de l’ISS</value>
+	</title_detail>
+	<published>Sat, 07 Sep 2024 02:43:01 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>43</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>251</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Sat, 07 Sep 2024 09:46:41 +0200</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>9</updated_parsed>
+	<updated_parsed>7</updated_parsed>
+	<updated_parsed>7</updated_parsed>
+	<updated_parsed>46</updated_parsed>
+	<updated_parsed>41</updated_parsed>
+	<updated_parsed>5</updated_parsed>
+	<updated_parsed>251</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Désarrimée vendredi soir de la Station spatiale internationale, la capsule s’est posée au Nouveau-Mexique sans encombre samedi matin. En raison de défaillances techniques repérées à l’aller, la NASA a préféré que ce voyage retour s’effectue à vide.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>Désarrimée vendredi soir de la Station spatiale internationale, la capsule s’est posée au Nouveau-Mexique sans encombre samedi matin. En raison de défaillances techniques repérées à l’aller, la NASA a préféré que ce voyage retour s’effectue à vide.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/09/07/la-capsule-starliner-de-boeing-en-route-vers-la-terre-sans-ses-deux-astronautes-restes-dans-l-iss_6305983_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/09/07/la-capsule-starliner-de-boeing-en-route-vers-la-terre-sans-ses-deux-astronautes-restes-dans-l-iss_6305983_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/09/07/la-capsule-starliner-de-boeing-en-route-vers-la-terre-sans-ses-deux-astronautes-restes-dans-l-iss_6305983_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/09/06/423/0/2040/1020/644/322/60/0/d6c56fa_5607824-01-06.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>Dans cette capture d’écran d’une vidéo en direct de la NASA, le 6 septembre 2024, la capsule Starliner s’éloigne de la Station spatiale internationale en vue de son retour sur Terre.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>NASA / AFP</content>
+	</media_credit>
+	<credit>NASA / AFP</credit>
+</article>

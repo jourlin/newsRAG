@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>"Trois sur Cinq" de Clara Iannotta (3/5)</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/francemusique/rss</base>
+		<value>"Trois sur Cinq" de Clara Iannotta (3/5)</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.radiofrance.fr/francemusique/podcasts/creation-mondiale/trois-sur-cinq-de-clara-iannotta-3-5-4849763</href>
+	</links>
+	<links>
+		<type>image/jpeg</type>
+		<length>1337</length>
+		<href>https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/4a420411-fec2-4d4e-85e9-491ecc67c275/560x315_sc_clara-iannotta-et-le-trio-k-d-m-par-jean-radel.jpg</href>
+		<rel>enclosure</rel>
+	</links>
+	<link>https://www.radiofrance.fr/francemusique/podcasts/creation-mondiale/trois-sur-cinq-de-clara-iannotta-3-5-4849763</link>
+	<summary>En écho au festival d'Automne 2024, rediffusion cette semaine de "Trois sur Cinq", une page ancienne de Clara Iannotta imaginée pour le trio K/D/M en 2012</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/francemusique/rss</base>
+		<value>En écho au festival d'Automne 2024, rediffusion cette semaine de "Trois sur Cinq", une page ancienne de Clara Iannotta imaginée pour le trio K/D/M en 2012</value>
+	</summary_detail>
+	<published>Wed, 20 Nov 2024 12:23:30 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>20</published_parsed>
+	<published_parsed>12</published_parsed>
+	<published_parsed>23</published_parsed>
+	<published_parsed>30</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>325</published_parsed>
+	<published_parsed>0</published_parsed>
+	<id>https://www.radiofrance.fr/francemusique/podcasts/creation-mondiale/trois-sur-cinq-de-clara-iannotta-3-5-4849763</id>
+	<guidislink>false</guidislink>
+</article>

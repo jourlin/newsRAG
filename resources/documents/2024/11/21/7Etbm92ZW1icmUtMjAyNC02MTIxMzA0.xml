@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Le Bach du matin par Leopold Stokowski</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/francemusique/rss</base>
+		<value>Le Bach du matin par Leopold Stokowski</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.radiofrance.fr/francemusique/podcasts/le-bach-du-matin/le-bach-du-matin-du-jeudi-21-novembre-2024-6121304</href>
+	</links>
+	<links>
+		<type>image/jpeg</type>
+		<length>1337</length>
+		<href>https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/d9ab0020-5310-4ed4-9121-f8575221f9fe/560x315_sc_monogramme-de-bach-1280x720.jpg</href>
+		<rel>enclosure</rel>
+	</links>
+	<link>https://www.radiofrance.fr/francemusique/podcasts/le-bach-du-matin/le-bach-du-matin-du-jeudi-21-novembre-2024-6121304</link>
+	<summary>Notre Bach du matin est un Bach symphonique ! Le chef britannique Leopold Stokowski adorait Bach et a orchestré plusieurs pièces  du compositeur, comme cette fantaisie et fugue en sol mineur BWV 542, initialement écrite pour l'orgue.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/francemusique/rss</base>
+		<value>Notre Bach du matin est un Bach symphonique ! Le chef britannique Leopold Stokowski adorait Bach et a orchestré plusieurs pièces  du compositeur, comme cette fantaisie et fugue en sol mineur BWV 542, initialement écrite pour l'orgue.</value>
+	</summary_detail>
+	<published>Thu, 21 Nov 2024 07:03:00 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>326</published_parsed>
+	<published_parsed>0</published_parsed>
+	<id>https://www.radiofrance.fr/francemusique/podcasts/le-bach-du-matin/le-bach-du-matin-du-jeudi-21-novembre-2024-6121304</id>
+	<guidislink>false</guidislink>
+</article>

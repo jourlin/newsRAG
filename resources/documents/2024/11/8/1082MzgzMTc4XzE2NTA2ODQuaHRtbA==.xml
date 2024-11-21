@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Ces chercheurs qui font voler les panneaux solaires</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/videos/rss_full.xml</base>
+		<value>Ces chercheurs qui font voler les panneaux solaires</value>
+	</title_detail>
+	<published>Fri, 08 Nov 2024 11:29:13 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>29</published_parsed>
+	<published_parsed>13</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>313</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Fri, 08 Nov 2024 11:52:23 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>8</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>52</updated_parsed>
+	<updated_parsed>23</updated_parsed>
+	<updated_parsed>4</updated_parsed>
+	<updated_parsed>313</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Un projet français installe des cellules photovoltaïques souples et ultralégères sur un ballon pour, à terme, aller capter les rayons du Soleil au-dessus du couvert nuageux.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/videos/rss_full.xml</base>
+		<value>Un projet français installe des cellules photovoltaïques souples et ultralégères sur un ballon pour, à terme, aller capter les rayons du Soleil au-dessus du couvert nuageux.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/video/2024/11/08/ces-chercheurs-qui-font-voler-les-panneaux-solaires_6383178_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/video/2024/11/08/ces-chercheurs-qui-font-voler-les-panneaux-solaires_6383178_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/video/2024/11/08/ces-chercheurs-qui-font-voler-les-panneaux-solaires_6383178_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/08/253/0/3456/1728/644/322/60/0/6915075_1731061164873-ballon-seul-1.png</url>
+	</media_content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>CNRS Le Journal.</content>
+	</media_credit>
+	<credit>CNRS Le Journal.</credit>
+</article>

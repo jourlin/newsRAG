@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Le bonheur retrouvé de Malik Djoudi</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/fip/rss</base>
+		<value>Le bonheur retrouvé de Malik Djoudi</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.radiofrance.fr/fip/podcasts/live-a-fip/le-bonheur-retrouve-de-malik-djoudi-8939976</href>
+	</links>
+	<links>
+		<type>image/jpeg</type>
+		<length>1337</length>
+		<href>https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/8c4f2701-4c6d-482f-a458-49550a21de5e/560x315_sc_malik-djoudi.jpg</href>
+		<rel>enclosure</rel>
+	</links>
+	<link>https://www.radiofrance.fr/fip/podcasts/live-a-fip/le-bonheur-retrouve-de-malik-djoudi-8939976</link>
+	<summary>Actuellement en tournée, le chanteur pop vient présenter en session live son magnifique quatrième album "Vivant".</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/fip/rss</base>
+		<value>Actuellement en tournée, le chanteur pop vient présenter en session live son magnifique quatrième album "Vivant".</value>
+	</summary_detail>
+	<published>Mon, 18 Nov 2024 19:30:00 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>18</published_parsed>
+	<published_parsed>19</published_parsed>
+	<published_parsed>30</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>323</published_parsed>
+	<published_parsed>0</published_parsed>
+	<id>https://www.radiofrance.fr/fip/podcasts/live-a-fip/le-bonheur-retrouve-de-malik-djoudi-8939976</id>
+	<guidislink>false</guidislink>
+</article>

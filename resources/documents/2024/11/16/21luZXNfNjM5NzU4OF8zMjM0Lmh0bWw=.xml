@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Un squelette géant de dinosaure vendu 6 millions d’euros dans les Yvelines</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/argent/rss_full.xml</base>
+		<value>Un squelette géant de dinosaure vendu 6 millions d’euros dans les Yvelines</value>
+	</title_detail>
+	<published>Sat, 16 Nov 2024 22:29:02 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>16</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>29</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>321</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Sun, 17 Nov 2024 07:59:25 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>17</updated_parsed>
+	<updated_parsed>6</updated_parsed>
+	<updated_parsed>59</updated_parsed>
+	<updated_parsed>25</updated_parsed>
+	<updated_parsed>6</updated_parsed>
+	<updated_parsed>322</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Composé de 75 % à 80 % des os d’origine, l’imposant spécimen est le plus grand dinosaure jamais mis aux enchères.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/argent/rss_full.xml</base>
+		<value>Composé de 75 % à 80 % des os d’origine, l’imposant spécimen est le plus grand dinosaure jamais mis aux enchères.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/economie/article/2024/11/16/un-squelette-geant-de-dinosaure-vendu-6-millions-d-euros-dans-les-yvelines_6397588_3234.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/economie/article/2024/11/16/un-squelette-geant-de-dinosaure-vendu-6-millions-d-euros-dans-les-yvelines_6397588_3234.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/economie/article/2024/11/16/un-squelette-geant-de-dinosaure-vendu-6-millions-d-euros-dans-les-yvelines_6397588_3234.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/14/500/0/6000/3000/644/322/60/0/3910dc3_5252374-01-06.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/argent/rss_full.xml</base>
+		<value>Un squelette de dinosaure « Apatosaurus » appelé « Vulcain », exposé au château de Dampierre, avant une vente aux enchères à Dampierre-en-Yvelines, au sud de Paris, le 10 juillet 2024.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>STEPHANE DE SAKUTIN / AFP</content>
+	</media_credit>
+	<credit>STEPHANE DE SAKUTIN / AFP</credit>
+</article>

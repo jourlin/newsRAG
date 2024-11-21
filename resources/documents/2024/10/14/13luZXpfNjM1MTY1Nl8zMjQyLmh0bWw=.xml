@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>« Je veux gagner le Tour de France », clame Lenny Martinez</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/cyclisme/rss_full.xml</base>
+		<value>« Je veux gagner le Tour de France », clame Lenny Martinez</value>
+	</title_detail>
+	<published>Mon, 14 Oct 2024 15:44:37 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>13</published_parsed>
+	<published_parsed>44</published_parsed>
+	<published_parsed>37</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>288</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Mon, 14 Oct 2024 18:25:08 +0200</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>14</updated_parsed>
+	<updated_parsed>16</updated_parsed>
+	<updated_parsed>25</updated_parsed>
+	<updated_parsed>8</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>288</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Le cycliste français, révélé sur le Tour d’Espagne en 2023, va rejoindre pour les trois prochaines saisons la formation Bahrain-Victorious. Il dit vouloir « mettre toutes les chances » de son côté pour battre Tadej Pogacar, triple vainqueur du Tour de France.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/cyclisme/rss_full.xml</base>
+		<value>Le cycliste français, révélé sur le Tour d’Espagne en 2023, va rejoindre pour les trois prochaines saisons la formation Bahrain-Victorious. Il dit vouloir « mettre toutes les chances » de son côté pour battre Tadej Pogacar, triple vainqueur du Tour de France.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sport/article/2024/10/14/cyclisme-je-veux-gagner-le-tour-de-france-clame-lenny-martinez_6351656_3242.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sport/article/2024/10/14/cyclisme-je-veux-gagner-le-tour-de-france-clame-lenny-martinez_6351656_3242.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sport/article/2024/10/14/cyclisme-je-veux-gagner-le-tour-de-france-clame-lenny-martinez_6351656_3242.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/14/688/0/8256/4128/644/322/60/0/8508e06_1728911727148-000-34kj788.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/cyclisme/rss_full.xml</base>
+		<value>Le coureur cycliste français Lenny Martinez, lors des Strade Bianche, en Italie, le 2 mars 2024.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>MARCO BERTORELLO / AFP</content>
+	</media_credit>
+	<credit>MARCO BERTORELLO / AFP</credit>
+</article>

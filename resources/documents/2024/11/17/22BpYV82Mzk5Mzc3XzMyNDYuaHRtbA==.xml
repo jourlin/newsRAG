@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Nos choix d’albums : « La Sorcière », « Megaphenix », « Chromakopia »…</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/musiques/rss_full.xml</base>
+		<value>Nos choix d’albums : « La Sorcière », « Megaphenix », « Chromakopia »…</value>
+	</title_detail>
+	<published>Sun, 17 Nov 2024 23:00:06 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>17</published_parsed>
+	<published_parsed>22</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>322</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Mon, 18 Nov 2024 01:13:27 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>18</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>13</updated_parsed>
+	<updated_parsed>27</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>323</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Le lundi, le service culture du « Monde » propose aux lecteurs de La Matinale ses choix en matière de musique. Cette semaine, notamment, le nouvel album du rappeur Tyler, The Creator.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/musiques/rss_full.xml</base>
+		<value>Le lundi, le service culture du « Monde » propose aux lecteurs de La Matinale ses choix en matière de musique. Cette semaine, notamment, le nouvel album du rappeur Tyler, The Creator.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/culture/article/2024/11/17/nos-choix-d-albums-la-sorciere-megaphenix-chromakopia_6399377_3246.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/culture/article/2024/11/17/nos-choix-d-albums-la-sorciere-megaphenix-chromakopia_6399377_3246.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/culture/article/2024/11/17/nos-choix-d-albums-la-sorciere-megaphenix-chromakopia_6399377_3246.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/31/136/0/600/300/644/322/60/0/74b9dd5_1730367778188-chromakopia.jpg</url>
+	</media_content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>COLUMBIA RECORDS</content>
+	</media_credit>
+	<credit>COLUMBIA RECORDS</credit>
+</article>

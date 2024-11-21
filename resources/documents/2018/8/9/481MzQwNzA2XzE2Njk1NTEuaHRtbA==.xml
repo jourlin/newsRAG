@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>#bestholidaysever ou les vacances qui n’en sont pas</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>#bestholidaysever ou les vacances qui n’en sont pas</value>
+	</title_detail>
+	<published>Thu, 09 Aug 2018 06:45:01 +0200</published>
+	<published_parsed>2018</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>45</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>221</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Thu, 09 Aug 2018 10:49:32 +0200</updated>
+	<updated_parsed>2018</updated_parsed>
+	<updated_parsed>8</updated_parsed>
+	<updated_parsed>9</updated_parsed>
+	<updated_parsed>8</updated_parsed>
+	<updated_parsed>49</updated_parsed>
+	<updated_parsed>32</updated_parsed>
+	<updated_parsed>3</updated_parsed>
+	<updated_parsed>221</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Les accros des réseaux sociaux ne cessent de mettre en scène leur vie à coups de hashtags et de selfies, lançant la tendance (ou pas). Cette semaine, des vacances trop belles (pour être vraies).</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Les accros des réseaux sociaux ne cessent de mettre en scène leur vie à coups de hashtags et de selfies, lançant la tendance (ou pas). Cette semaine, des vacances trop belles (pour être vraies).</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/chroniques/article/2018/08/09/bestholidaysever-ou-les-vacances-qui-n-en-sont-pas_5340706_1669551.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/chroniques/article/2018/08/09/bestholidaysever-ou-les-vacances-qui-n-en-sont-pas_5340706_1669551.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/chroniques/article/2018/08/09/bestholidaysever-ou-les-vacances-qui-n-en-sont-pas_5340706_1669551.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2018/08/01/275/0/1181/588/644/322/60/0/40ec462_2018080445.0.2172291556bestholydayeve_web.jpg</url>
+	</media_content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Aline Zalko pour M Le magazine du Monde</content>
+	</media_credit>
+	<credit>Aline Zalko pour M Le magazine du Monde</credit>
+</article>

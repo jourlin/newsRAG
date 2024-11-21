@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Il est comme ça… Laurent Brun</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Il est comme ça… Laurent Brun</value>
+	</title_detail>
+	<published>Thu, 22 Mar 2018 07:14:55 +0100</published>
+	<published_parsed>2018</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>22</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>55</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>81</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Thu, 22 Mar 2018 07:39:40 +0100</updated>
+	<updated_parsed>2018</updated_parsed>
+	<updated_parsed>3</updated_parsed>
+	<updated_parsed>22</updated_parsed>
+	<updated_parsed>6</updated_parsed>
+	<updated_parsed>39</updated_parsed>
+	<updated_parsed>40</updated_parsed>
+	<updated_parsed>3</updated_parsed>
+	<updated_parsed>81</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Chronique. Le secrétaire général de la CGT-Cheminots, âgé de 38 ans, livre dans les médias une personnalité en pointillé. A l’image de la grève intermittente que son syndicat veut mener contre la réforme de la SNCF.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Chronique. Le secrétaire général de la CGT-Cheminots, âgé de 38 ans, livre dans les médias une personnalité en pointillé. A l’image de la grève intermittente que son syndicat veut mener contre la réforme de la SNCF.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/chroniques/article/2018/03/22/il-est-comme-ca-laurent-brun_5274618_1669551.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/chroniques/article/2018/03/22/il-est-comme-ca-laurent-brun_5274618_1669551.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/chroniques/article/2018/03/22/il-est-comme-ca-laurent-brun_5274618_1669551.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2018/03/21/288/0/1573/782/644/322/60/0/dece608_2018032445.0.2110321355LaurentBrun_web.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Laurent Brun.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Damien Cuypers pour « M Le magazine du Monde »</content>
+	</media_credit>
+	<credit>Damien Cuypers pour « M Le magazine du Monde »</credit>
+</article>

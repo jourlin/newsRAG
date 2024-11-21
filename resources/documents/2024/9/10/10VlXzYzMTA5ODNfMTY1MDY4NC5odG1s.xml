@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>SpaceX a lancé mardi sa mission avec des astronautes non professionnels pour réaliser la première sortie spatiale privée</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>SpaceX a lancé mardi sa mission avec des astronautes non professionnels pour réaliser la première sortie spatiale privée</value>
+	</title_detail>
+	<published>Tue, 10 Sep 2024 12:31:57 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>31</published_parsed>
+	<published_parsed>57</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>254</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Tue, 10 Sep 2024 18:30:48 +0200</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>9</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>16</updated_parsed>
+	<updated_parsed>30</updated_parsed>
+	<updated_parsed>48</updated_parsed>
+	<updated_parsed>1</updated_parsed>
+	<updated_parsed>254</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Cette mission privée qui transporte un équipage de quatre membres – un milliardaire, un pilote et deux employés de Space X – doit durer cinq jours. La sortie dans l’espace est prévue au troisième jour.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>Cette mission privée qui transporte un équipage de quatre membres – un milliardaire, un pilote et deux employés de Space X – doit durer cinq jours. La sortie dans l’espace est prévue au troisième jour.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/09/10/spacex-a-lance-mardi-sa-mission-avec-des-astronautes-non-professionnels-pour-realiser-la-premiere-sortie-spatiale-privee_6310983_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/09/10/spacex-a-lance-mardi-sa-mission-avec-des-astronautes-non-professionnels-pour-realiser-la-premiere-sortie-spatiale-privee_6310983_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/09/10/spacex-a-lance-mardi-sa-mission-avec-des-astronautes-non-professionnels-pour-realiser-la-premiere-sortie-spatiale-privee_6310983_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/09/10/500/0/6000/3000/644/322/60/0/23b3923_5635836-01-06.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>Polaris Dawn (« Aube polaire », en français), la mission de Space X, a été lancé mardi 10 septembre de Cape Canaveral en Floride.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>JOE RAEDLE / AFP</content>
+	</media_credit>
+	<credit>JOE RAEDLE / AFP</credit>
+</article>

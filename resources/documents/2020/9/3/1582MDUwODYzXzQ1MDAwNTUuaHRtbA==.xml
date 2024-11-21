@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Foires aux vins : l’année des bonnes affaires</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Foires aux vins : l’année des bonnes affaires</value>
+	</title_detail>
+	<published>Thu, 03 Sep 2020 17:00:52 +0200</published>
+	<published_parsed>2020</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>15</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>52</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>247</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>En raison du confinement, les stocks sont au plus haut. Et donc les prix au plus bas pour ce rendez-vous automnal des amateurs de vin.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>En raison du confinement, les stocks sont au plus haut. Et donc les prix au plus bas pour ce rendez-vous automnal des amateurs de vin.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/m-le-mag/article/2020/09/03/foires-aux-vins-l-annee-des-bonnes-affaires_6050863_4500055.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/m-le-mag/article/2020/09/03/foires-aux-vins-l-annee-des-bonnes-affaires_6050863_4500055.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/m-le-mag/article/2020/09/03/foires-aux-vins-l-annee-des-bonnes-affaires_6050863_4500055.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2020/09/01/2023/0/4000/2000/644/322/60/0/7b179ad_244856477-Emmanuel-Pierrot-_DSF0479-copy.jpg</url>
+	</media_content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>EMMANUEL PIERROT POUR LE MONDE</content>
+	</media_credit>
+	<credit>EMMANUEL PIERROT POUR LE MONDE</credit>
+</article>

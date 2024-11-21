@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Faute d’un accord entre l’Elysée et la Place Beauvau, la police attend toujours son directeur général</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/police/rss_full.xml</base>
+		<value>Faute d’un accord entre l’Elysée et la Place Beauvau, la police attend toujours son directeur général</value>
+	</title_detail>
+	<published>Tue, 22 Oct 2024 05:30:22 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>22</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>30</published_parsed>
+	<published_parsed>22</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>296</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Tue, 22 Oct 2024 13:55:09 +0200</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>22</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>55</updated_parsed>
+	<updated_parsed>9</updated_parsed>
+	<updated_parsed>1</updated_parsed>
+	<updated_parsed>296</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Gérald Darmanin, ex-ministre de l’intérieur, appuie la candidature d’un proche, Alexandre Brugère, que son successeur, Bruno Retailleau, bloque. En attendant qu’un terrain d’entente soit trouvé, de multiples noms sont évoqués et le poste reste vacant.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/police/rss_full.xml</base>
+		<value>Gérald Darmanin, ex-ministre de l’intérieur, appuie la candidature d’un proche, Alexandre Brugère, que son successeur, Bruno Retailleau, bloque. En attendant qu’un terrain d’entente soit trouvé, de multiples noms sont évoqués et le poste reste vacant.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/societe/article/2024/10/22/faute-d-un-accord-entre-l-elysee-et-la-place-beauvau-la-police-attend-toujours-son-directeur-general_6357914_3224.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/societe/article/2024/10/22/faute-d-un-accord-entre-l-elysee-et-la-place-beauvau-la-police-attend-toujours-son-directeur-general_6357914_3224.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/societe/article/2024/10/22/faute-d-un-accord-entre-l-elysee-et-la-place-beauvau-la-police-attend-toujours-son-directeur-general_6357914_3224.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/21/258/0/4912/2456/644/322/60/0/fdfc7da_1729554902336-sipa-01119350-000041.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/police/rss_full.xml</base>
+		<value>Alexandre Brugère, alors directeur du cabinet de Gérald Darmanin, dans la cour de Matignon, le 3 juillet 2023.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Alexis Jumeau/SIPA</content>
+	</media_credit>
+	<credit>Alexis Jumeau/SIPA</credit>
+</article>

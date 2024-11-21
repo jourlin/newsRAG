@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>La vallée de l’Okanagan, eldorado vinicole canadien</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>La vallée de l’Okanagan, eldorado vinicole canadien</value>
+	</title_detail>
+	<published>Tue, 10 Sep 2019 15:28:44 +0200</published>
+	<published_parsed>2019</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>13</published_parsed>
+	<published_parsed>28</published_parsed>
+	<published_parsed>44</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>253</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Chaque année, les touristes américains et européens sont de plus en plus nombreux à emprunter la « route des vins de l’Okanagan ».</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Chaque année, les touristes américains et européens sont de plus en plus nombreux à emprunter la « route des vins de l’Okanagan ».</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/gastronomie/article/2019/09/10/la-vallee-de-l-okanagan-eldorado-vinicole-canadien_5508669_1383316.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/gastronomie/article/2019/09/10/la-vallee-de-l-okanagan-eldorado-vinicole-canadien_5508669_1383316.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/gastronomie/article/2019/09/10/la-vallee-de-l-okanagan-eldorado-vinicole-canadien_5508669_1383316.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2019/09/02/408/0/3264/1632/644/322/60/0/5205897_f7jWk8p7f-xAsNFwMdufls5j.JPG</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Entre la sauge sauvage et le lac Osoyoos, dans la vallée canadienne de l’Okanagan, en Colombie-Britannique.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Osoyoos Larose</content>
+	</media_credit>
+	<credit>Osoyoos Larose</credit>
+</article>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>« Le Monde » et le spatial, des premières fusées à la révolution SpaceX</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>« Le Monde » et le spatial, des premières fusées à la révolution SpaceX</value>
+	</title_detail>
+	<published>Tue, 10 Sep 2024 18:00:14 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>16</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>254</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>La création du journal, en 1944, coïncide avec le lancement des premières fusées, et la science se glisse d’emblée dans les colonnes. Spoutnik, le premier homme dans l’espace, les missions sur la Lune, les programmes Apollo, l’épopée Ariane… Quatre-vingts ans durant lesquels « Le Monde » a raconté les enjeux géostratégiques de la conquête du ciel.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>La création du journal, en 1944, coïncide avec le lancement des premières fusées, et la science se glisse d’emblée dans les colonnes. Spoutnik, le premier homme dans l’espace, les missions sur la Lune, les programmes Apollo, l’épopée Ariane… Quatre-vingts ans durant lesquels « Le Monde » a raconté les enjeux géostratégiques de la conquête du ciel.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/09/10/le-monde-et-le-spatial-des-premieres-fusees-a-la-revolution-spacex_6311628_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/09/10/le-monde-et-le-spatial-des-premieres-fusees-a-la-revolution-spacex_6311628_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/09/10/le-monde-et-le-spatial-des-premieres-fusees-a-la-revolution-spacex_6311628_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/09/06/352/0/4288/2144/644/322/60/0/8f6b482_1725626477403-iss028-e-15808.jpeg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>La navette spatiale Atlantis, photographiée depuis la Station spatiale internationale (ISS), au-dessus des Bahamas, le 3 octobre 1985.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>NASA</content>
+	</media_credit>
+	<credit>NASA</credit>
+</article>

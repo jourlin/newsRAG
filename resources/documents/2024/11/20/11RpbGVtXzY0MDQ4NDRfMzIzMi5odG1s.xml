@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Vu par… Dilem</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/rss/plus-partages.xml</base>
+		<value>Vu par… Dilem</value>
+	</title_detail>
+	<published>Wed, 20 Nov 2024 12:15:59 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>20</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>15</published_parsed>
+	<published_parsed>59</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>325</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Le dessin paru en une du « Monde » le 20 novembre est signé par la dessinateur algérien, membre de l’association Cartooning for Peace.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/rss/plus-partages.xml</base>
+		<value>Le dessin paru en une du « Monde » le 20 novembre est signé par la dessinateur algérien, membre de l’association Cartooning for Peace.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/idees/article/2024/11/20/vu-par-dilem_6404844_3232.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/idees/article/2024/11/20/vu-par-dilem_6404844_3232.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/idees/article/2024/11/20/vu-par-dilem_6404844_3232.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/20/118/0/1654/827/644/322/60/0/04b1758_1732101261783-dilem-algei-rie-1-1.jpg</url>
+	</media_content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Dilem</content>
+	</media_credit>
+	<credit>Dilem</credit>
+</article>

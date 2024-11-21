@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Dans une fabrique de nanotubes de carbone pour le calcul quantique</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/physique/rss_full.xml</base>
+		<value>Dans une fabrique de nanotubes de carbone pour le calcul quantique</value>
+	</title_detail>
+	<published>Wed, 03 Jul 2024 06:00:17 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>17</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>185</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Reportage dans une start-up parisienne, C12, qui synthétise des qubits, composants des futurs ordinateurs quantiques.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/physique/rss_full.xml</base>
+		<value>Reportage dans une start-up parisienne, C12, qui synthétise des qubits, composants des futurs ordinateurs quantiques.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/07/03/dans-une-fabrique-de-nanotubes-de-carbone-pour-le-calcul-quantique_6246194_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/07/03/dans-une-fabrique-de-nanotubes-de-carbone-pour-le-calcul-quantique_6246194_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/07/03/dans-une-fabrique-de-nanotubes-de-carbone-pour-le-calcul-quantique_6246194_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/06/20/744/0/8934/4467/644/322/60/0/bec38b0_1718897087650-54.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/physique/rss_full.xml</base>
+		<value>Dépôt de nanotubes de carbone sur une puce électronique afin de réaliser un qubit quantique, la spécialité de la start-up C12.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Sophie Derrien/C12</content>
+	</media_credit>
+	<credit>Sophie Derrien/C12</credit>
+</article>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Christophe Laporte vainqueur de la classique Paris-Tours, sous la pluie et dans la boue</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/cyclisme/rss_full.xml</base>
+		<value>Christophe Laporte vainqueur de la classique Paris-Tours, sous la pluie et dans la boue</value>
+	</title_detail>
+	<published>Sun, 06 Oct 2024 18:41:44 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>16</published_parsed>
+	<published_parsed>41</published_parsed>
+	<published_parsed>44</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>280</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Sun, 06 Oct 2024 19:07:59 +0200</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>6</updated_parsed>
+	<updated_parsed>17</updated_parsed>
+	<updated_parsed>7</updated_parsed>
+	<updated_parsed>59</updated_parsed>
+	<updated_parsed>6</updated_parsed>
+	<updated_parsed>280</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Le Français a remporté dimanche la 118ᵉ édition de Paris-Tours, en devançant au sprint son compagnon d’échappée, le Tchèque Mathias Vacek.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/cyclisme/rss_full.xml</base>
+		<value>Le Français a remporté dimanche la 118ᵉ édition de Paris-Tours, en devançant au sprint son compagnon d’échappée, le Tchèque Mathias Vacek.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sport/article/2024/10/06/christophe-laporte-vainqueur-de-la-classique-paris-tours-sous-la-pluie-et-dans-la-boue_6345320_3242.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sport/article/2024/10/06/christophe-laporte-vainqueur-de-la-classique-paris-tours-sous-la-pluie-et-dans-la-boue_6345320_3242.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sport/article/2024/10/06/christophe-laporte-vainqueur-de-la-classique-paris-tours-sous-la-pluie-et-dans-la-boue_6345320_3242.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/06/0/0/3518/1759/644/322/60/0/12ab25f_5890424-01-06.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/cyclisme/rss_full.xml</base>
+		<value>Le coureur français de l’équipe Visma-Lease a Bike, Christophe Laporte, s’est imposé sur Paris-Tours, le 6 octobre 2024.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>GUILLAUME SOUVANT / AFP</content>
+	</media_credit>
+	<credit>GUILLAUME SOUVANT / AFP</credit>
+</article>

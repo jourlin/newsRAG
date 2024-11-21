@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Philippe Katerine, zazou du cocooning</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/musiques/rss_full.xml</base>
+		<value>Philippe Katerine, zazou du cocooning</value>
+	</title_detail>
+	<published>Thu, 14 Nov 2024 06:00:30 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>30</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>319</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Après sa performance remarquée aux Jeux olympiques, le chanteur et acteur sort son quinzième album, « Zouzou », qui se veut un éloge de la normalité et du quotidien.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/musiques/rss_full.xml</base>
+		<value>Après sa performance remarquée aux Jeux olympiques, le chanteur et acteur sort son quinzième album, « Zouzou », qui se veut un éloge de la normalité et du quotidien.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/culture/article/2024/11/14/philippe-katerine-zazou-du-cocooning_6392941_3246.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/culture/article/2024/11/14/philippe-katerine-zazou-du-cocooning_6392941_3246.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/culture/article/2024/11/14/philippe-katerine-zazou-du-cocooning_6392941_3246.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/12/734/0/10012/5006/644/322/60/0/380e9cc_1731419198895-1317525f-9eef-452c-b231-f71b161ffa02.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/musiques/rss_full.xml</base>
+		<value>Philippe Katerine et Zouzou, à Paris, en avril 2024.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Philippe Jarrigeon</content>
+	</media_credit>
+	<credit>Philippe Jarrigeon</credit>
+</article>

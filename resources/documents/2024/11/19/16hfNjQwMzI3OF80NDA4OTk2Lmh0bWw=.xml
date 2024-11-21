@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>« Ouest-France » annonce suspendre ses publications sur le réseau social X</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/actualite-medias/rss_full.xml</base>
+		<value>« Ouest-France » annonce suspendre ses publications sur le réseau social X</value>
+	</title_detail>
+	<published>Tue, 19 Nov 2024 17:09:25 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>19</published_parsed>
+	<published_parsed>16</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>25</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>324</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Le « Guardian » avait déjà annoncé mercredi 13 novembre qu’il arrêterait d’alimenter en contenu la plateforme d’Elon Musk, récemment nommé au sein de l’administration Trump.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/actualite-medias/rss_full.xml</base>
+		<value>Le « Guardian » avait déjà annoncé mercredi 13 novembre qu’il arrêterait d’alimenter en contenu la plateforme d’Elon Musk, récemment nommé au sein de l’administration Trump.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/pixels/article/2024/11/19/ouest-france-annonce-suspendre-ses-publications-sur-le-reseau-social-x_6403278_4408996.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/pixels/article/2024/11/19/ouest-france-annonce-suspendre-ses-publications-sur-le-reseau-social-x_6403278_4408996.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/pixels/article/2024/11/19/ouest-france-annonce-suspendre-ses-publications-sur-le-reseau-social-x_6403278_4408996.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/09/24/778/0/5078/2539/644/322/60/0/bddb70f_1727173326162-pns-6735959.jpg</url>
+	</media_content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>MONIKA SKOLIMOWSKA / DPA / Photononstop</content>
+	</media_credit>
+	<credit>MONIKA SKOLIMOWSKA / DPA / Photononstop</credit>
+</article>

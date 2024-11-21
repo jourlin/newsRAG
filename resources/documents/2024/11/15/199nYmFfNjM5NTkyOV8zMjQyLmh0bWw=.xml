@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>La Juventus Turin met fin au contrat de Paul Pogba</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/football/rss_full.xml</base>
+		<value>La Juventus Turin met fin au contrat de Paul Pogba</value>
+	</title_detail>
+	<published>Fri, 15 Nov 2024 20:50:31 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>15</published_parsed>
+	<published_parsed>19</published_parsed>
+	<published_parsed>50</published_parsed>
+	<published_parsed>31</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>320</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Fri, 15 Nov 2024 22:37:41 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>15</updated_parsed>
+	<updated_parsed>21</updated_parsed>
+	<updated_parsed>37</updated_parsed>
+	<updated_parsed>41</updated_parsed>
+	<updated_parsed>4</updated_parsed>
+	<updated_parsed>320</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Le club piémontais a annoncé, vendredi, la résiliation fin novembre du contrat du champion du monde 2018, suspendu pour dopage jusqu’en mars 2025.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/football/rss_full.xml</base>
+		<value>Le club piémontais a annoncé, vendredi, la résiliation fin novembre du contrat du champion du monde 2018, suspendu pour dopage jusqu’en mars 2025.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sport/article/2024/11/15/la-juventus-turin-met-fin-au-contrat-de-paul-pogba_6395929_3242.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sport/article/2024/11/15/la-juventus-turin-met-fin-au-contrat-de-paul-pogba_6395929_3242.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sport/article/2024/11/15/la-juventus-turin-met-fin-au-contrat-de-paul-pogba_6395929_3242.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/16/70/0/1959/979/644/322/60/0/7dad97d_2024-10-16t210047z-1462108084-rc2mw0a36ngi-rtrmadp-3-soccer-doping-pogba.JPG</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/football/rss_full.xml</base>
+		<value>Paul Pogba, lors de la demi-finale aller de la Ligue Europa entre la Juventus Turin et Séville, à Turin, le 11 mai 2023.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Massimo Pinca / REUTERS</content>
+	</media_credit>
+	<credit>Massimo Pinca / REUTERS</credit>
+</article>

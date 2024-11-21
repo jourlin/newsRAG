@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Rugby : un nouveau carton rouge de vingt minutes testé durant la tournée d’automne</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/rugby/rss_full.xml</base>
+		<value>Rugby : un nouveau carton rouge de vingt minutes testé durant la tournée d’automne</value>
+	</title_detail>
+	<published>Sat, 09 Nov 2024 18:30:05 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>17</published_parsed>
+	<published_parsed>30</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>314</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Le XV de France affronte le Japon samedi, au Stade de France, et devra composer pour sa rentrée avec une nouvelle règle qui pourrait rapidement être généralisée.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/rugby/rss_full.xml</base>
+		<value>Le XV de France affronte le Japon samedi, au Stade de France, et devra composer pour sa rentrée avec une nouvelle règle qui pourrait rapidement être généralisée.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sport/article/2024/11/09/rugby-un-nouveau-carton-rouge-de-vingt-minutes-teste-durant-la-tournee-d-automne_6385241_3242.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sport/article/2024/11/09/rugby-un-nouveau-carton-rouge-de-vingt-minutes-teste-durant-la-tournee-d-automne_6385241_3242.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sport/article/2024/11/09/rugby-un-nouveau-carton-rouge-de-vingt-minutes-teste-durant-la-tournee-d-automne_6385241_3242.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/14/564/0/3381/1690/644/322/60/0/54463ca_f71938a5979b4ed6b460508c58f70d0e-0-c2b9618e89254dfaa7c8b4af35bdcb24.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/rugby/rss_full.xml</base>
+		<value>L’arbitre anglais Wayne Barnes, lors de la finale de la Coupe du monde de rugby entre la Nouvelle-Zélande et l’Afrique du Sud, le 28 octobre 2023, au Stade de France, à Saint-Denis (Seine-Saint-Denis).</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Christophe Ena / AP</content>
+	</media_credit>
+	<credit>Christophe Ena / AP</credit>
+</article>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Les cuissardes remontent en estime</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/m-styles/rss_full.xml</base>
+		<value>Les cuissardes remontent en estime</value>
+	</title_detail>
+	<published>Thu, 21 Nov 2024 06:00:05 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>326</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Accessoire emblématique de la libération sexuelle des sixties, la cuissarde se veut aujourd’hui aussi ludique que séductrice.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/m-styles/rss_full.xml</base>
+		<value>Accessoire emblématique de la libération sexuelle des sixties, la cuissarde se veut aujourd’hui aussi ludique que séductrice.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/m-styles/article/2024/11/21/les-cuissardes-remontent-en-estime_6406307_4497319.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/m-styles/article/2024/11/21/les-cuissardes-remontent-en-estime_6406307_4497319.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/m-styles/article/2024/11/21/les-cuissardes-remontent-en-estime_6406307_4497319.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/13/865/0/1136/568/644/322/60/0/7e0c097_358206-3397666.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/m-styles/rss_full.xml</base>
+		<value>Cuissardes Eve, en cuir de veau, Chloé, 1 750 €.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Rodrigo Carmuega pour M Le magazine du Monde. Stylisme Laëtitia Leporcq</content>
+	</media_credit>
+	<credit>Rodrigo Carmuega pour M Le magazine du Monde. Stylisme Laëtitia Leporcq</credit>
+</article>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>« Le Point » victime d’une fuite de données</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/actualite-medias/rss_full.xml</base>
+		<value>« Le Point » victime d’une fuite de données</value>
+	</title_detail>
+	<published>Mon, 18 Nov 2024 15:26:18 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>18</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>26</published_parsed>
+	<published_parsed>18</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>323</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Mon, 18 Nov 2024 16:14:34 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>18</updated_parsed>
+	<updated_parsed>15</updated_parsed>
+	<updated_parsed>14</updated_parsed>
+	<updated_parsed>34</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>323</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Une base de données clients qui appartiendrait à l’hebdomadaire français a été mise en vente sur un forum de discussion utilisé par des cyberdélinquants.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/actualite-medias/rss_full.xml</base>
+		<value>Une base de données clients qui appartiendrait à l’hebdomadaire français a été mise en vente sur un forum de discussion utilisé par des cyberdélinquants.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/pixels/article/2024/11/18/le-point-victime-d-une-fuite-de-donnees_6400943_4408996.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/pixels/article/2024/11/18/le-point-victime-d-une-fuite-de-donnees_6400943_4408996.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/pixels/article/2024/11/18/le-point-victime-d-une-fuite-de-donnees_6400943_4408996.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/10/252/0/3008/1504/644/322/60/0/06698bb_1728546855932-papier-271.jpg</url>
+	</media_content>
+</article>

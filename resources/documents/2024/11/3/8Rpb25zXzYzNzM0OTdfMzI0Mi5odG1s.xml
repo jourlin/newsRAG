@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Le tennis face à ses paradoxes, entre calendrier surchargé et sirènes des tournois exhibitions</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/tennis/rss_full.xml</base>
+		<value>Le tennis face à ses paradoxes, entre calendrier surchargé et sirènes des tournois exhibitions</value>
+	</title_detail>
+	<published>Sun, 03 Nov 2024 09:00:11 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>308</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Réuni au Masters 1000 de Bercy, dont la finale se tient dimanche, le monde du tennis vit un bouleversement avec la prolifération de tournois promettant de généreux « prize money ».</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/tennis/rss_full.xml</base>
+		<value>Réuni au Masters 1000 de Bercy, dont la finale se tient dimanche, le monde du tennis vit un bouleversement avec la prolifération de tournois promettant de généreux « prize money ».</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sport/article/2024/11/03/le-tennis-face-a-ses-paradoxes-entre-calendrier-surcharge-et-sirenes-des-tournois-exhibitions_6373497_3242.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sport/article/2024/11/03/le-tennis-face-a-ses-paradoxes-entre-calendrier-surcharge-et-sirenes-des-tournois-exhibitions_6373497_3242.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sport/article/2024/11/03/le-tennis-face-a-ses-paradoxes-entre-calendrier-surcharge-et-sirenes-des-tournois-exhibitions_6373497_3242.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/01/1018/0/6192/3096/644/322/60/0/63b97bb_5133277-01-06.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/tennis/rss_full.xml</base>
+		<value>L’Allemand Alexander Zverev, au Masters 1000 de Paris-Bercy remporté face au Grec Stéfanos Tsitsipas, vendredi 1er novembre 2024.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>JULIEN DE ROSA / AFP</content>
+	</media_credit>
+	<credit>JULIEN DE ROSA / AFP</credit>
+</article>

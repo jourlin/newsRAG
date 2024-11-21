@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Le Musée Cernuschi raconte la naissance d’un art indochinois à Hanoï</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>Le Musée Cernuschi raconte la naissance d’un art indochinois à Hanoï</value>
+	</title_detail>
+	<published>Tue, 12 Nov 2024 20:00:08 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>12</published_parsed>
+	<published_parsed>19</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>317</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Wed, 13 Nov 2024 10:28:55 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>13</updated_parsed>
+	<updated_parsed>9</updated_parsed>
+	<updated_parsed>28</updated_parsed>
+	<updated_parsed>55</updated_parsed>
+	<updated_parsed>2</updated_parsed>
+	<updated_parsed>318</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Il y a cent ans, la France coloniale ouvrait au Vietnam l’Ecole des beaux-arts de l’Indochine, d’où sont sortis Lê Phô, Mai-Thu et Vu Cao Dam, auxquels le musée consacre une exposition, à Paris.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>Il y a cent ans, la France coloniale ouvrait au Vietnam l’Ecole des beaux-arts de l’Indochine, d’où sont sortis Lê Phô, Mai-Thu et Vu Cao Dam, auxquels le musée consacre une exposition, à Paris.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/culture/article/2024/11/12/le-musee-cernuschi-raconte-la-naissance-d-un-art-indochinois-a-hanoi_6390546_3246.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/culture/article/2024/11/12/le-musee-cernuschi-raconte-la-naissance-d-un-art-indochinois-a-hanoi_6390546_3246.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/culture/article/2024/11/12/le-musee-cernuschi-raconte-la-naissance-d-un-art-indochinois-a-hanoi_6390546_3246.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/07/1393/0/5248/2624/644/322/60/0/f0151e0_1730992116763-12-mai-thu.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>« Femme à sa coiffure » (1942), peinture sur soie de Mai-Thu.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Comité Mai-Thu/ADAGP Paris, 2024</content>
+	</media_credit>
+	<credit>Comité Mai-Thu/ADAGP Paris, 2024</credit>
+</article>

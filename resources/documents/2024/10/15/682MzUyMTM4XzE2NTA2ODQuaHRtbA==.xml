@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Shane Gross remporte le Prix du photographe animalier de l’année</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/photo/rss_full.xml</base>
+		<value>Shane Gross remporte le Prix du photographe animalier de l’année</value>
+	</title_detail>
+	<published>Tue, 15 Oct 2024 08:00:09 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>15</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>289</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Mon, 21 Oct 2024 16:32:56 +0200</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>21</updated_parsed>
+	<updated_parsed>14</updated_parsed>
+	<updated_parsed>32</updated_parsed>
+	<updated_parsed>56</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>295</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Honoré par le Muséum d’histoire naturelle de Londres, le photographe canadien a capturé, sous les nénuphars, une myriade de têtards de crapaud.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/photo/rss_full.xml</base>
+		<value>Honoré par le Muséum d’histoire naturelle de Londres, le photographe canadien a capturé, sous les nénuphars, une myriade de têtards de crapaud.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/10/15/shane-gross-remporte-le-prix-du-photographe-animalier-de-l-annee_6352138_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/10/15/shane-gross-remporte-le-prix-du-photographe-animalier-de-l-annee_6352138_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/10/15/shane-gross-remporte-le-prix-du-photographe-animalier-de-l-annee_6352138_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/10/0/0/1280/640/644/322/60/0/dd5535c_1728565244313-a-shane-gross-wildlife-photographer-of-the-year-1.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/photo/rss_full.xml</base>
+		<value>« L’Essaim de la vie », par Shane Gross, dans le lac Cedar, sur l’île de Vancouver, au Canada.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>SHANE GROSS</content>
+	</media_credit>
+	<credit>SHANE GROSS</credit>
+</article>

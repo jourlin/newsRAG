@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Au Musée d’art moderne de Paris, le retour de la menace nucléaire</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>Au Musée d’art moderne de Paris, le retour de la menace nucléaire</value>
+	</title_detail>
+	<published>Sun, 10 Nov 2024 11:30:08 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>30</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>315</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Mon, 11 Nov 2024 01:27:16 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>27</updated_parsed>
+	<updated_parsed>16</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>316</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Profuse mais incomplète, « L’Age atomique. Les artistes à l’épreuve de l’histoire », consacrée au regard des artistes sur la menace nucléaire, peine à trouver une cohérence.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>Profuse mais incomplète, « L’Age atomique. Les artistes à l’épreuve de l’histoire », consacrée au regard des artistes sur la menace nucléaire, peine à trouver une cohérence.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/culture/article/2024/11/10/au-musee-d-art-moderne-de-paris-le-retour-de-la-menace-nucleaire_6386285_3246.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/culture/article/2024/11/10/au-musee-d-art-moderne-de-paris-le-retour-de-la-menace-nucleaire_6386285_3246.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/culture/article/2024/11/10/au-musee-d-art-moderne-de-paris-le-retour-de-la-menace-nucleaire_6386285_3246.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/06/1665/0/9094/4547/644/322/60/0/8637bf9_1730898842527-1-barnett-newman-hd.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>« Pagan Void » (1946), de Barnett Newman.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>National Gallery of Art, Washington / 2024 The Barnett Newman Foundation / ADAGP, Paris, 2024</content>
+	</media_credit>
+	<credit>National Gallery of Art, Washington / 2024 The Barnett Newman Foundation / ADAGP, Paris, 2024</credit>
+</article>

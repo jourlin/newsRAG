@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Live à fip : aja monet</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/fip/rss</base>
+		<value>Live à fip : aja monet</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.radiofrance.fr/fip/live-a-fip-aja-monet-6615082</href>
+	</links>
+	<links>
+		<type>image/jpeg</type>
+		<length>1337</length>
+		<href>https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/4b702bd9-80c6-4b26-b5c5-0edecd1f9d65/560x315_sc_vignette-youtube.jpg</href>
+		<rel>enclosure</rel>
+	</links>
+	<link>https://www.radiofrance.fr/fip/live-a-fip-aja-monet-6615082</link>
+	<summary>Après la sortie de son premier album "When the Poems Do What They Do", nous invitons en session live la poétesse et musicienne activiste aja monet pour une magnifique session live.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/fip/rss</base>
+		<value>Après la sortie de son premier album "When the Poems Do What They Do", nous invitons en session live la poétesse et musicienne activiste aja monet pour une magnifique session live.</value>
+	</summary_detail>
+	<published>Wed, 20 Nov 2024 10:09:08 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>20</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>325</published_parsed>
+	<published_parsed>0</published_parsed>
+	<id>https://www.radiofrance.fr/fip/live-a-fip-aja-monet-6615082</id>
+	<guidislink>false</guidislink>
+</article>

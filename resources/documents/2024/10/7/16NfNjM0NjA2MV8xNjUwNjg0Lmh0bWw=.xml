@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Constituer le grand atlas des génomes marins</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/biologie/rss_full.xml</base>
+		<value>Constituer le grand atlas des génomes marins</value>
+	</title_detail>
+	<published>Mon, 07 Oct 2024 18:00:05 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>16</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>281</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Tue, 08 Oct 2024 06:03:27 +0200</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>8</updated_parsed>
+	<updated_parsed>4</updated_parsed>
+	<updated_parsed>3</updated_parsed>
+	<updated_parsed>27</updated_parsed>
+	<updated_parsed>1</updated_parsed>
+	<updated_parsed>282</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Le programme Atlasea a pour objectif de recenser les « génomes de référence » de 4 500 organismes marins eucaryotes présents dans les eaux françaises. Reportage au large des côtes bretonnes et à Dinard sur les recettes pour y parvenir.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/biologie/rss_full.xml</base>
+		<value>Le programme Atlasea a pour objectif de recenser les « génomes de référence » de 4 500 organismes marins eucaryotes présents dans les eaux françaises. Reportage au large des côtes bretonnes et à Dinard sur les recettes pour y parvenir.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/10/07/constituer-le-grand-atlas-des-genomes-marins_6346061_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/10/07/constituer-le-grand-atlas-des-genomes-marins_6346061_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/10/07/constituer-le-grand-atlas-des-genomes-marins_6346061_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/03/504/0/6047/3023/644/322/60/0/463a9ae_1727950131522-dive-sea-dinard-antoine-merlet-59.jpg</url>
+	</media_content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>ANTOINE MERLET</content>
+	</media_credit>
+	<credit>ANTOINE MERLET</credit>
+</article>

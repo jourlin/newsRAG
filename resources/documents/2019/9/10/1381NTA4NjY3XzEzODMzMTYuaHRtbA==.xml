@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Au Canada, petit vignoble veut devenir grand</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Au Canada, petit vignoble veut devenir grand</value>
+	</title_detail>
+	<published>Tue, 10 Sep 2019 15:28:25 +0200</published>
+	<published_parsed>2019</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>13</published_parsed>
+	<published_parsed>28</published_parsed>
+	<published_parsed>25</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>253</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Encore méconnus à l’étranger, les crus canadiens entendent dépasser la notoriété du célèbre vin de glace. Le pays mise sur la qualité et l’œnotourisme pour développer un secteur porteur.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Encore méconnus à l’étranger, les crus canadiens entendent dépasser la notoriété du célèbre vin de glace. Le pays mise sur la qualité et l’œnotourisme pour développer un secteur porteur.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/gastronomie/article/2019/09/10/au-canada-petit-vignoble-veut-devenir-grand_5508667_1383316.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/gastronomie/article/2019/09/10/au-canada-petit-vignoble-veut-devenir-grand_5508667_1383316.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/gastronomie/article/2019/09/10/au-canada-petit-vignoble-veut-devenir-grand_5508667_1383316.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2019/09/02/0/0/1900/949/644/322/60/0/c435141_429awYYb6KxQ7GgK5_YjA5cL.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Dans la vallée de l’Okanagan, située à la latitude de la Champagne française, mais avec un désert.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>BC</content>
+	</media_credit>
+	<credit>BC</credit>
+</article>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Entendons-nous tous de la même façon ?</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/biologie/rss_full.xml</base>
+		<value>Entendons-nous tous de la même façon ?</value>
+	</title_detail>
+	<published>Fri, 11 Oct 2024 11:26:42 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>26</published_parsed>
+	<published_parsed>42</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>285</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Un programme de recherche étudie l’ouïe dans sa globalité, avec des enregistrements de l’environnement sonore, des données génétiques ou des tests de sensibilité auditive.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/biologie/rss_full.xml</base>
+		<value>Un programme de recherche étudie l’ouïe dans sa globalité, avec des enregistrements de l’environnement sonore, des données génétiques ou des tests de sensibilité auditive.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/video/2024/10/11/entendons-nous-tous-de-la-meme-facon_6348964_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/video/2024/10/11/entendons-nous-tous-de-la-meme-facon_6348964_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/video/2024/10/11/entendons-nous-tous-de-la-meme-facon_6348964_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/11/99/0/640/320/644/322/60/0/e467783_1728636788256-capture-da-a-cran-2024-10-11-105239.png</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/biologie/rss_full.xml</base>
+		<value>Un programme de recherche étudie l'ouïe dans sa globalité, avec des enregistrements de l’environnement sonore, des données génétiques ou des tests de sensibilité auditive.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>CNRS Le Journal.</content>
+	</media_credit>
+	<credit>CNRS Le Journal.</credit>
+</article>

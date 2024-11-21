@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>La dynastie Lurton, plus grande famille viticole du monde</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>La dynastie Lurton, plus grande famille viticole du monde</value>
+	</title_detail>
+	<published>Wed, 11 Sep 2019 09:54:53 +0200</published>
+	<published_parsed>2019</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>54</published_parsed>
+	<published_parsed>53</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>254</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Cinq générations, une quinzaine de vignerons, une trentaine de châteaux, 1 400 hectares… Découvrez une vraie saga bordelaise.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Cinq générations, une quinzaine de vignerons, une trentaine de châteaux, 1 400 hectares… Découvrez une vraie saga bordelaise.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/m-gastronomie/article/2019/09/11/la-dynastie-lurton-plus-grande-famille-viticole-du-monde_5509026_4497540.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/m-gastronomie/article/2019/09/11/la-dynastie-lurton-plus-grande-famille-viticole-du-monde_5509026_4497540.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/m-gastronomie/article/2019/09/11/la-dynastie-lurton-plus-grande-famille-viticole-du-monde_5509026_4497540.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2019/09/03/590/0/1994/995/644/322/60/0/f9b80a5_dlSv3Su54KXS-ViPP6lo2l5Y.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Lors des Lurton du vin 2015, à la Résidence de France, à Bruxelles. De bas en haut : Thierry, Denis, Bérénice, Jacques, Pierre, Marc, François, Christine, Sophie et Marie-Laure Lurton. Gaëtan Gillet</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Gaëtan Gillet</content>
+	</media_credit>
+	<credit>Gaëtan Gillet</credit>
+</article>

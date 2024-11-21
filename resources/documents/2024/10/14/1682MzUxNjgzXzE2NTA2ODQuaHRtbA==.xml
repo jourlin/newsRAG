@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>La NASA envoie une sonde vers Europe, intrigant satellite de Jupiter</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>La NASA envoie une sonde vers Europe, intrigant satellite de Jupiter</value>
+	</title_detail>
+	<published>Mon, 14 Oct 2024 18:13:27 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>16</published_parsed>
+	<published_parsed>13</published_parsed>
+	<published_parsed>27</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>288</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>L’agence spatiale américaine a lancé lundi une mission pour explorer cette lune jovienne, qui pourrait abriter un océan et des gaz indispensables à la vie. La sonde devrait atteindre l’orbite de la planète géante en 2030.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>L’agence spatiale américaine a lancé lundi une mission pour explorer cette lune jovienne, qui pourrait abriter un océan et des gaz indispensables à la vie. La sonde devrait atteindre l’orbite de la planète géante en 2030.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/10/14/la-nasa-envoie-une-sonde-vers-europe-intrigant-satellite-de-jupiter_6351683_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/10/14/la-nasa-envoie-une-sonde-vers-europe-intrigant-satellite-de-jupiter_6351683_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/10/14/la-nasa-envoie-une-sonde-vers-europe-intrigant-satellite-de-jupiter_6351683_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/05/02/20/0/2300/1150/644/322/60/0/b47ff46_1714644502825-new-evidence-of-watery-plumes-on-jupiter-s-moon-europa-copie.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>Portrait d’Europe, une des lunes de Jupiter, assemblé à partir d’images obtenues, en 1995 et en 1998, par la sonde Galileo (Nasa).</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>SETI Institute/JPL-Caltech/NASA</content>
+	</media_credit>
+	<credit>SETI Institute/JPL-Caltech/NASA</credit>
+</article>

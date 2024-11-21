@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>"Hot Ones" ou comment pimenter une interview !</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/franceinter/rss</base>
+		<value>"Hot Ones" ou comment pimenter une interview !</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.radiofrance.fr/franceinter/podcasts/capture-d-ecrans/capture-d-ecrans-du-jeudi-21-novembre-2024-5678176</href>
+	</links>
+	<links>
+		<type>image/jpeg</type>
+		<length>1337</length>
+		<href>https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/95e58bff-b31b-4355-a69b-b31481558536/560x315_sc_075-carlino-notitle201019-nphq5.jpg</href>
+		<rel>enclosure</rel>
+	</links>
+	<link>https://www.radiofrance.fr/franceinter/podcasts/capture-d-ecrans/capture-d-ecrans-du-jeudi-21-novembre-2024-5678176</link>
+	<summary>Adapté d'un format américain, "Hot Ones" accumule les millions de vues sur Youtube. À chaque numéro, une personnalité répond aux questions de Kyan Khojandi, tout en dégustant des beignets de poulet agrémentés de sauces piquantes. Effet désinhibant garanti !</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/franceinter/rss</base>
+		<value>Adapté d'un format américain, "Hot Ones" accumule les millions de vues sur Youtube. À chaque numéro, une personnalité répond aux questions de Kyan Khojandi, tout en dégustant des beignets de poulet agrémentés de sauces piquantes. Effet désinhibant garanti !</value>
+	</summary_detail>
+	<published>Thu, 21 Nov 2024 05:49:55 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>49</published_parsed>
+	<published_parsed>55</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>326</published_parsed>
+	<published_parsed>0</published_parsed>
+	<id>https://www.radiofrance.fr/franceinter/podcasts/capture-d-ecrans/capture-d-ecrans-du-jeudi-21-novembre-2024-5678176</id>
+	<guidislink>false</guidislink>
+</article>

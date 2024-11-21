@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Les auditeurs n’ont jamais autant écouté les antennes de Radio France</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/actualite-medias/rss_full.xml</base>
+		<value>Les auditeurs n’ont jamais autant écouté les antennes de Radio France</value>
+	</title_detail>
+	<published>Thu, 14 Nov 2024 09:05:41 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>41</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>319</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Thu, 14 Nov 2024 10:50:08 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>14</updated_parsed>
+	<updated_parsed>9</updated_parsed>
+	<updated_parsed>50</updated_parsed>
+	<updated_parsed>8</updated_parsed>
+	<updated_parsed>3</updated_parsed>
+	<updated_parsed>319</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>France Inter, France Culture et France Musique réalisent des audiences record, tandis que Franceinfo se hisse devant RTL pour la première fois de son histoire. Europe 1, de son côté, confirme sa remontée des limbes.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/actualite-medias/rss_full.xml</base>
+		<value>France Inter, France Culture et France Musique réalisent des audiences record, tandis que Franceinfo se hisse devant RTL pour la première fois de son histoire. Europe 1, de son côté, confirme sa remontée des limbes.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/economie/article/2024/11/14/les-auditeurs-n-ont-jamais-autant-ecoute-les-antennes-de-radio-france_6393122_3234.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/economie/article/2024/11/14/les-auditeurs-n-ont-jamais-autant-ecoute-les-antennes-de-radio-france_6393122_3234.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/economie/article/2024/11/14/les-auditeurs-n-ont-jamais-autant-ecoute-les-antennes-de-radio-france_6393122_3234.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/14/634/0/7587/3793/644/322/60/0/9213427_1731571494630-000-338g333.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/actualite-medias/rss_full.xml</base>
+		<value>Le siège de Radio France, à Paris, le 3 février 2023.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>LUDOVIC MARIN / AFP</content>
+	</media_credit>
+	<credit>LUDOVIC MARIN / AFP</credit>
+</article>

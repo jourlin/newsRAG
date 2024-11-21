@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Pour les majorettes, c’est le pompon !</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Pour les majorettes, c’est le pompon !</value>
+	</title_detail>
+	<published>Sun, 08 Jul 2018 06:31:34 +0200</published>
+	<published_parsed>2018</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>31</published_parsed>
+	<published_parsed>34</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>189</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Sun, 08 Jul 2018 06:31:34 +0200</updated>
+	<updated_parsed>2018</updated_parsed>
+	<updated_parsed>7</updated_parsed>
+	<updated_parsed>8</updated_parsed>
+	<updated_parsed>4</updated_parsed>
+	<updated_parsed>31</updated_parsed>
+	<updated_parsed>34</updated_parsed>
+	<updated_parsed>6</updated_parsed>
+	<updated_parsed>189</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Pour la deuxième année consécutive, les Medley’dies, l’ensemble de pom-pom girls de Vierzon, ont raflé leur titre aux majorettes lors de leur championnat de France.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Pour la deuxième année consécutive, les Medley’dies, l’ensemble de pom-pom girls de Vierzon, ont raflé leur titre aux majorettes lors de leur championnat de France.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/m-perso/article/2018/07/08/pour-les-majorettes-c-est-le-pompon_5327951_4497916.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/m-perso/article/2018/07/08/pour-les-majorettes-c-est-le-pompon_5327951_4497916.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/m-perso/article/2018/07/08/pour-les-majorettes-c-est-le-pompon_5327951_4497916.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2018/07/03/0/0/3908/1952/644/322/60/0/47e3301_23589-c70pr6.fcpyc.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Les jumelles Noémie et Emmeline Verduron, 23 ans (à gauche), et leur amie Cloé, 18 ans, membres des Medley’dies de Vierzon.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>FREDERIC POTET / LE MONDE</content>
+	</media_credit>
+	<credit>FREDERIC POTET / LE MONDE</credit>
+</article>

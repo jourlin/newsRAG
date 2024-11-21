@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Le Petit Poucet ! Votre jeu du 20 novembre 2024</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/francemusique/rss</base>
+		<value>Le Petit Poucet ! Votre jeu du 20 novembre 2024</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.radiofrance.fr/francemusique/podcasts/relax/le-petit-poucet-votre-jeu-du-20-novembre-2024-8718451</href>
+	</links>
+	<links>
+		<type>image/jpeg</type>
+		<length>1337</length>
+		<href>https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/66ec1634-e397-48fe-b835-8e5d6b6bdc07/560x315_sc_pochette-lpp.jpg</href>
+		<rel>enclosure</rel>
+	</links>
+	<link>https://www.radiofrance.fr/francemusique/podcasts/relax/le-petit-poucet-votre-jeu-du-20-novembre-2024-8718451</link>
+	<summary>Un personnage réel ou fictif à découvrir à travers des indices déposés comme des petits cailloux blancs au fil de l’émission, des musiques ou des mots clés déposés discrètement au fil de la première heure et qu’il vous faut débusquer.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/francemusique/rss</base>
+		<value>Un personnage réel ou fictif à découvrir à travers des indices déposés comme des petits cailloux blancs au fil de l’émission, des musiques ou des mots clés déposés discrètement au fil de la première heure et qu’il vous faut débusquer.</value>
+	</summary_detail>
+	<published>Wed, 20 Nov 2024 14:00:00 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>20</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>325</published_parsed>
+	<published_parsed>0</published_parsed>
+	<id>https://www.radiofrance.fr/francemusique/podcasts/relax/le-petit-poucet-votre-jeu-du-20-novembre-2024-8718451</id>
+	<guidislink>false</guidislink>
+</article>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Médicaments et grossesse : de nouveaux pictogrammes à l’étude</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/medecine/rss_full.xml</base>
+		<value>Médicaments et grossesse : de nouveaux pictogrammes à l’étude</value>
+	</title_detail>
+	<published>Thu, 07 Nov 2024 06:00:32 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>32</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>312</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>L’Agence de sécurité du médicament propose de faire évoluer le système d’informations sur les risques des traitements pendant la grossesse, pour plus de clarté. Mais selon une association de patients, les nouveaux pictogrammes sont « moins visibles et moins compréhensibles ».</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/medecine/rss_full.xml</base>
+		<value>L’Agence de sécurité du médicament propose de faire évoluer le système d’informations sur les risques des traitements pendant la grossesse, pour plus de clarté. Mais selon une association de patients, les nouveaux pictogrammes sont « moins visibles et moins compréhensibles ».</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/11/07/medicaments-et-grossesse-de-nouveaux-pictogrammes-a-l-etude_6380805_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/11/07/medicaments-et-grossesse-de-nouveaux-pictogrammes-a-l-etude_6380805_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/11/07/medicaments-et-grossesse-de-nouveaux-pictogrammes-a-l-etude_6380805_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/04/327/0/3930/1965/644/322/60/0/99677ff_1730728125110-000-1rf407.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/medecine/rss_full.xml</base>
+		<value>Une femme enceinte, à Paris, le 12 mai 2020.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>JOEL SAGET / AFP</content>
+	</media_credit>
+	<credit>JOEL SAGET / AFP</credit>
+</article>

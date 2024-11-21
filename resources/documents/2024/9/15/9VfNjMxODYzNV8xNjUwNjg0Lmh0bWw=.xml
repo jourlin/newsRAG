@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Après la première sortie spatiale privée dans l’espace, la mission de SpaceX a amerri au large de la Floride</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>Après la première sortie spatiale privée dans l’espace, la mission de SpaceX a amerri au large de la Floride</value>
+	</title_detail>
+	<published>Sun, 15 Sep 2024 11:46:00 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>15</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>46</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>259</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Les quatre membres de l’équipage avaient décollé mardi de Cape Canaveral, en Floride. Deux d’entre eux – le milliardaire Jared Isaacman et une ingénieure de SpaceX, Sarah Gillis – ont été les premiers civils, jeudi, à réaliser une sortie spatiale.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>Les quatre membres de l’équipage avaient décollé mardi de Cape Canaveral, en Floride. Deux d’entre eux – le milliardaire Jared Isaacman et une ingénieure de SpaceX, Sarah Gillis – ont été les premiers civils, jeudi, à réaliser une sortie spatiale.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/09/15/apres-la-premiere-sortie-spatiale-privee-dans-l-espace-la-mission-de-spacex-a-amerri-au-large-de-la-floride_6318635_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/09/15/apres-la-premiere-sortie-spatiale-privee-dans-l-espace-la-mission-de-spacex-a-amerri-au-large-de-la-floride_6318635_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/09/15/apres-la-premiere-sortie-spatiale-privee-dans-l-espace-la-mission-de-spacex-a-amerri-au-large-de-la-floride_6318635_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/09/15/86/0/3024/1512/644/322/60/0/ac8a214_41dbd2c9217847719c1b8340d977d5c6-0-624161c7eeb44f07a6f75371e478a615.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>La capsule Dragon de la mission de SpaceX a amerri dimanche 15 septembre au large de la Floride.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>AP</content>
+	</media_credit>
+	<credit>AP</credit>
+</article>

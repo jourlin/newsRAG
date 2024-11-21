@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Au festival Images de Vevey, Paul Graham sonde les visages du passé</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/photo/rss_full.xml</base>
+		<value>Au festival Images de Vevey, Paul Graham sonde les visages du passé</value>
+	</title_detail>
+	<published>Sat, 14 Sep 2024 15:32:06 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>13</published_parsed>
+	<published_parsed>32</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>258</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Mon, 16 Sep 2024 09:37:05 +0200</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>9</updated_parsed>
+	<updated_parsed>16</updated_parsed>
+	<updated_parsed>7</updated_parsed>
+	<updated_parsed>37</updated_parsed>
+	<updated_parsed>5</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>260</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Le photographe expose dans la rue des images de 2004 montrant des passants à New York, les yeux clos, familiers et irréels.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/photo/rss_full.xml</base>
+		<value>Le photographe expose dans la rue des images de 2004 montrant des passants à New York, les yeux clos, familiers et irréels.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/culture/article/2024/09/14/au-festival-images-de-vevey-paul-graham-sonde-les-visages-du-passe_6317507_3246.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/culture/article/2024/09/14/au-festival-images-de-vevey-paul-graham-sonde-les-visages-du-passe_6317507_3246.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/culture/article/2024/09/14/au-festival-images-de-vevey-paul-graham-sonde-les-visages-du-passe_6317507_3246.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/09/13/512/0/4500/2250/644/322/60/0/633d387_1726233483291-17-paul-graham-070924-facadesallecastillo-jardindurivage-liubovkrivenkovallk01585.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/photo/rss_full.xml</base>
+		<value>Série « Sightless », de Paul Graham, dans le Jardin du rivage, à la Biennale d’arts visuels de Vevey (Suisse), le 7 septembre 2024.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>LIUBOV KRIVENKOVA</content>
+	</media_credit>
+	<credit>LIUBOV KRIVENKOVA</credit>
+</article>

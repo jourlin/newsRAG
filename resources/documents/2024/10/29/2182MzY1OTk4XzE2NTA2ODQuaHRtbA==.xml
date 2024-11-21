@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>La Chine envoie trois astronautes vers la station spatiale Tiangong</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>La Chine envoie trois astronautes vers la station spatiale Tiangong</value>
+	</title_detail>
+	<published>Tue, 29 Oct 2024 22:47:38 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>29</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>47</published_parsed>
+	<published_parsed>38</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>303</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Wed, 30 Oct 2024 07:28:10 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>30</updated_parsed>
+	<updated_parsed>6</updated_parsed>
+	<updated_parsed>28</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>2</updated_parsed>
+	<updated_parsed>304</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Le vaisseau propulsé par une fusée Longue Marche-2F est censé atteindre la station chinoise mercredi. L’objectif à long terme est de faire atterrir d’ici à 2030 un équipage sur la Lune afin d’y construire une base de recherche scientifique.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>Le vaisseau propulsé par une fusée Longue Marche-2F est censé atteindre la station chinoise mercredi. L’objectif à long terme est de faire atterrir d’ici à 2030 un équipage sur la Lune afin d’y construire une base de recherche scientifique.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/10/29/la-chine-envoie-trois-astronautes-vers-la-station-spatiale-tiangong_6365998_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/10/29/la-chine-envoie-trois-astronautes-vers-la-station-spatiale-tiangong_6365998_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/10/29/la-chine-envoie-trois-astronautes-vers-la-station-spatiale-tiangong_6365998_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/29/496/0/7302/3651/644/322/60/0/659e8fb_5108008-01-06.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/espace/rss_full.xml</base>
+		<value>Décollage de la fusée Longue Marche-2F avec trois astronautes à bord, à Jiuquan, dans le désert de Gobi, dans la nuit du 29 au 30 octobre 2024.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>ADEK BERRY / AFP</content>
+	</media_credit>
+	<credit>ADEK BERRY / AFP</credit>
+</article>

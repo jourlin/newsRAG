@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Le grand défilé de Mark Zuckerberg</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Le grand défilé de Mark Zuckerberg</value>
+	</title_detail>
+	<published>Fri, 30 Mar 2018 11:11:14 +0200</published>
+	<published_parsed>2018</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>30</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>89</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Fri, 30 Mar 2018 11:11:14 +0200</updated>
+	<updated_parsed>2018</updated_parsed>
+	<updated_parsed>3</updated_parsed>
+	<updated_parsed>30</updated_parsed>
+	<updated_parsed>9</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>14</updated_parsed>
+	<updated_parsed>4</updated_parsed>
+	<updated_parsed>89</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Notre chroniqueur a encore frappé : après les vestiaires de Bruno Le Maire et Nathalie Baye, Marc Beaugé scrute celui du fondateur de Facebook, empêtré dans de sales draps. Pour lui, ça n’est pas nouveau.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Notre chroniqueur a encore frappé : après les vestiaires de Bruno Le Maire et Nathalie Baye, Marc Beaugé scrute celui du fondateur de Facebook, empêtré dans de sales draps. Pour lui, ça n’est pas nouveau.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/chroniques/portfolio/2018/03/30/le-grand-defile-de-mark-zuckerberg_5278515_1669551.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/chroniques/portfolio/2018/03/30/le-grand-defile-de-mark-zuckerberg_5278515_1669551.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/chroniques/portfolio/2018/03/30/le-grand-defile-de-mark-zuckerberg_5278515_1669551.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2018/03/28/0/0/1890/945/644/322/60/0/470f0c9_2018033145.0.2111209750Zuck_2010HD_web.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Quatre ans plus tard, Facebook compte 500 000 utilisateurs, est valorisé à 41 milliards de dollars et s’affirme comme le troisième plus gros site américain, après Google et Amazon. Alors Mark Zuckerberg ne se refuse plus rien. En virée à Cannes, pour le Festival international de la créativité, le voilà chaussé d’une paire de baskets de la marque Brooks, très populaire auprès des runners et réputée pour la qualité d’amortissement de ses modèles. Le jeune homme a même opté pour un modèle dispendieux orné de bandes réfléchissantes permettant d’être visible dans la nuit. Ah, ces nouveaux riches…</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Antoine Antoniol/Bloomberg via Getty Images</content>
+	</media_credit>
+	<credit>Antoine Antoniol/Bloomberg via Getty Images</credit>
+</article>

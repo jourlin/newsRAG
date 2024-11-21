@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Le problème des écoulements de billes, ou comment choisir le bon angle pour éviter les bouchons</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/physique/rss_full.xml</base>
+		<value>Le problème des écoulements de billes, ou comment choisir le bon angle pour éviter les bouchons</value>
+	</title_detail>
+	<published>Thu, 10 Oct 2024 12:00:02 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>284</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Thu, 10 Oct 2024 17:14:51 +0200</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>15</updated_parsed>
+	<updated_parsed>14</updated_parsed>
+	<updated_parsed>51</updated_parsed>
+	<updated_parsed>3</updated_parsed>
+	<updated_parsed>284</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Une équipe de chercheurs américains s’est intéressée à l’obstruction d’orifices. Leur étude permet de mettre en évidence que plus l’angle d’écoulement est petit, moins il y a d’encombrement.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/physique/rss_full.xml</base>
+		<value>Une équipe de chercheurs américains s’est intéressée à l’obstruction d’orifices. Leur étude permet de mettre en évidence que plus l’angle d’écoulement est petit, moins il y a d’encombrement.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2024/10/10/le-probleme-des-ecoulements-de-billes-ou-comment-choisir-le-bon-angle-pour-eviter-les-bouchons_6348361_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2024/10/10/le-probleme-des-ecoulements-de-billes-ou-comment-choisir-le-bon-angle-pour-eviter-les-bouchons_6348361_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2024/10/10/le-probleme-des-ecoulements-de-billes-ou-comment-choisir-le-bon-angle-pour-eviter-les-bouchons_6348361_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/10/08/0/90/1194/597/644/322/60/0/067cbc3_1728370202878-experiment-angle.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/physique/rss_full.xml</base>
+		<value>Image d’une obstruction lors d’un écoulement d’une supsension de billes dans un liquide</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>A. Sauret</content>
+	</media_credit>
+	<credit>A. Sauret</credit>
+</article>

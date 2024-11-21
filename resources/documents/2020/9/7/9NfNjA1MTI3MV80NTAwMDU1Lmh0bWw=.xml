@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Foires aux vins : de nouveaux venus en grandes surfaces</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Foires aux vins : de nouveaux venus en grandes surfaces</value>
+	</title_detail>
+	<published>Mon, 07 Sep 2020 11:23:35 +0200</published>
+	<published_parsed>2020</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>9</published_parsed>
+	<published_parsed>23</published_parsed>
+	<published_parsed>35</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>251</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Thu, 08 Oct 2020 09:19:53 +0200</updated>
+	<updated_parsed>2020</updated_parsed>
+	<updated_parsed>10</updated_parsed>
+	<updated_parsed>8</updated_parsed>
+	<updated_parsed>7</updated_parsed>
+	<updated_parsed>19</updated_parsed>
+	<updated_parsed>53</updated_parsed>
+	<updated_parsed>3</updated_parsed>
+	<updated_parsed>282</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Parmi les spécificités de ce rendez-vous automnal, on relève une présence plus forte qu’avant de petits producteurs dans les rayons des supermarchés.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Parmi les spécificités de ce rendez-vous automnal, on relève une présence plus forte qu’avant de petits producteurs dans les rayons des supermarchés.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/m-le-mag/article/2020/09/07/foires-aux-vins-de-nouveaux-venus-en-grandes-surfaces_6051271_4500055.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/m-le-mag/article/2020/09/07/foires-aux-vins-de-nouveaux-venus-en-grandes-surfaces_6051271_4500055.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/m-le-mag/article/2020/09/07/foires-aux-vins-de-nouveaux-venus-en-grandes-surfaces_6051271_4500055.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2020/08/31/2000/0/4000/2000/644/322/60/0/337f7d0_161108602-Emmanuel-Pierrot-_DSF0491.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Au Super U de Pouxeux dans les Vosges.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Emmanuel Pierrot pour Le Monde</content>
+	</media_credit>
+	<credit>Emmanuel Pierrot pour Le Monde</credit>
+</article>

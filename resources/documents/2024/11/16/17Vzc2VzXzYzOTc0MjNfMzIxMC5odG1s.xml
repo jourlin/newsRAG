@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>En Chine, une attaque au couteau dans une école fait huit morts et dix-sept blessés</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/asie-pacifique/rss_full.xml</base>
+		<value>En Chine, une attaque au couteau dans une école fait huit morts et dix-sept blessés</value>
+	</title_detail>
+	<published>Sat, 16 Nov 2024 18:02:18 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>16</published_parsed>
+	<published_parsed>17</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>18</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>321</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Sat, 16 Nov 2024 18:30:35 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>16</updated_parsed>
+	<updated_parsed>17</updated_parsed>
+	<updated_parsed>30</updated_parsed>
+	<updated_parsed>35</updated_parsed>
+	<updated_parsed>5</updated_parsed>
+	<updated_parsed>321</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>L’attaque à l’arme blanche s’est déroulée dans la province du Jiangsu, dans l’est du pays. Le suspect a été arrêté sur les lieux.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/asie-pacifique/rss_full.xml</base>
+		<value>L’attaque à l’arme blanche s’est déroulée dans la province du Jiangsu, dans l’est du pays. Le suspect a été arrêté sur les lieux.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/international/article/2024/11/16/en-chine-une-attaque-au-couteau-dans-une-ecole-fait-huit-morts-et-dix-sept-blesses_6397423_3210.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/international/article/2024/11/16/en-chine-une-attaque-au-couteau-dans-une-ecole-fait-huit-morts-et-dix-sept-blesses_6397423_3210.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/international/article/2024/11/16/en-chine-une-attaque-au-couteau-dans-une-ecole-fait-huit-morts-et-dix-sept-blesses_6397423_3210.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/16/468/0/5621/2810/644/322/60/0/f4c15aa_1731775132247-000-1hb8et.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/asie-pacifique/rss_full.xml</base>
+		<value>Photo d’illustration. Un agent de la police de la circulation bloque la rue à Lianyungang, dans la province chinoise du Jiangsu (est), le 7 juin 2019.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>STR / AFP</content>
+	</media_credit>
+	<credit>STR / AFP</credit>
+</article>

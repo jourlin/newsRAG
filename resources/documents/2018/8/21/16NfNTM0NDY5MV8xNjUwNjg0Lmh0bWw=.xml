@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Une histoire de cochons, d’oisons et de bouchons</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Une histoire de cochons, d’oisons et de bouchons</value>
+	</title_detail>
+	<published>Tue, 21 Aug 2018 18:00:04 +0200</published>
+	<published_parsed>2018</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>16</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>233</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Tue, 21 Aug 2018 18:00:04 +0200</updated>
+	<updated_parsed>2018</updated_parsed>
+	<updated_parsed>8</updated_parsed>
+	<updated_parsed>21</updated_parsed>
+	<updated_parsed>16</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>4</updated_parsed>
+	<updated_parsed>1</updated_parsed>
+	<updated_parsed>233</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Les ralentissements sont la hantise du vacancier et certains d’entre-eux semblent se former et disparaître comme par enchantement. Pour remédier à cela, étudions les oiseaux.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Les ralentissements sont la hantise du vacancier et certains d’entre-eux semblent se former et disparaître comme par enchantement. Pour remédier à cela, étudions les oiseaux.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/sciences/article/2018/08/21/une-histoire-de-cochons-d-oisons-et-de-bouchons_5344691_1650684.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/sciences/article/2018/08/21/une-histoire-de-cochons-d-oisons-et-de-bouchons_5344691_1650684.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/sciences/article/2018/08/21/une-histoire-de-cochons-d-oisons-et-de-bouchons_5344691_1650684.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2018/08/21/178/0/2134/1067/644/322/60/0/7dda4bc_2LuWBgEsb8uUH-hap6T4I_VR.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/chroniques/rss_full.xml</base>
+		<value>Des bouchons le 4 août 2018 sur l’A7, à proximité de Vienne.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>PHILIPPE DESMAZES / AFP</content>
+	</media_credit>
+	<credit>PHILIPPE DESMAZES / AFP</credit>
+</article>

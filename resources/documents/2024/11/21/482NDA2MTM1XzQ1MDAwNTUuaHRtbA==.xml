@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Des soirées sans portable pour sortir de sa bulle</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/societe/rss_full.xml</base>
+		<value>Des soirées sans portable pour sortir de sa bulle</value>
+	</title_detail>
+	<published>Thu, 21 Nov 2024 05:00:08 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>326</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Venu des Pays-Bas, le Offline Club remporte un franc succès auprès des trentenaires saturés d’écrans. Son concept ? Organiser des événements festifs garantis sans smartphone, pour satisfaire leur soif de déconnexion.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/societe/rss_full.xml</base>
+		<value>Venu des Pays-Bas, le Offline Club remporte un franc succès auprès des trentenaires saturés d’écrans. Son concept ? Organiser des événements festifs garantis sans smartphone, pour satisfaire leur soif de déconnexion.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/m-le-mag/article/2024/11/21/des-soirees-sans-portable-pour-sortir-de-sa-bulle_6406135_4500055.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/m-le-mag/article/2024/11/21/des-soirees-sans-portable-pour-sortir-de-sa-bulle_6406135_4500055.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/m-le-mag/article/2024/11/21/des-soirees-sans-portable-pour-sortir-de-sa-bulle_6406135_4500055.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/19/227/0/1500/750/644/322/60/0/0e69a5d_359333-3397163.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/societe/rss_full.xml</base>
+		<value>Aux soirées du Offline Club, les portables (éteints) sont laissés à l’entrée. Ici, au Griffon, un bar du Marais, à Paris, le 5 novembre.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Arthur Mercier pour M Le magazine du Monde</content>
+	</media_credit>
+	<credit>Arthur Mercier pour M Le magazine du Monde</credit>
+</article>

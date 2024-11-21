@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Frank Martin et la partition tombée du ciel</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/francemusique/rss</base>
+		<value>Frank Martin et la partition tombée du ciel</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.radiofrance.fr/francemusique/podcasts/maxxi-classique/des-harmonies-tombees-du-ciel-la-messe-pour-double-choeur-de-frank-martin-9672868</href>
+	</links>
+	<links>
+		<type>image/jpeg</type>
+		<length>1337</length>
+		<href>https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/31c240d7-cd6a-423f-97e9-c950ea3126e8/560x315_sc_gettyimages-1173979399.jpg</href>
+		<rel>enclosure</rel>
+	</links>
+	<link>https://www.radiofrance.fr/francemusique/podcasts/maxxi-classique/des-harmonies-tombees-du-ciel-la-messe-pour-double-choeur-de-frank-martin-9672868</link>
+	<summary>Il y a 50 ans; jour pour jour; disparaissait le compositeur suisse Frank Martin, une figure de la musique moderne à qui l’on doit notamment sa sublime "Messe pour double choeur a cappella" et son Kyrie inaugural, aux harmonies étonnantes, décrypté par Max Dozolme.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/francemusique/rss</base>
+		<value>Il y a 50 ans; jour pour jour; disparaissait le compositeur suisse Frank Martin, une figure de la musique moderne à qui l’on doit notamment sa sublime "Messe pour double choeur a cappella" et son Kyrie inaugural, aux harmonies étonnantes, décrypté par Max Dozolme.</value>
+	</summary_detail>
+	<published>Thu, 21 Nov 2024 07:20:00 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>20</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>326</published_parsed>
+	<published_parsed>0</published_parsed>
+	<id>https://www.radiofrance.fr/francemusique/podcasts/maxxi-classique/des-harmonies-tombees-du-ciel-la-messe-pour-double-choeur-de-frank-martin-9672868</id>
+	<guidislink>false</guidislink>
+</article>

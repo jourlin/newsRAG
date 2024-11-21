@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Benjamin Bernheim, invité spécial</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/francemusique/rss</base>
+		<value>Benjamin Bernheim, invité spécial</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.radiofrance.fr/francemusique/podcasts/en-pistes/benjamin-bernheim-invite-special-5568437</href>
+	</links>
+	<links>
+		<type>image/jpeg</type>
+		<length>1337</length>
+		<href>https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/adc780c6-033c-49ba-8131-a8c03fe58aca/560x315_sc_21-11-2024.jpg</href>
+		<rel>enclosure</rel>
+	</links>
+	<link>https://www.radiofrance.fr/francemusique/podcasts/en-pistes/benjamin-bernheim-invite-special-5568437</link>
+	<summary>Benjamin Bernheim est l'invité d'En Pistes ! Il vient à l'occasion nous partager ses coups de cœurs discographiques.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/francemusique/rss</base>
+		<value>Benjamin Bernheim est l'invité d'En Pistes ! Il vient à l'occasion nous partager ses coups de cœurs discographiques.</value>
+	</summary_detail>
+	<published>Thu, 21 Nov 2024 08:00:00 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>8</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>326</published_parsed>
+	<published_parsed>0</published_parsed>
+	<id>https://www.radiofrance.fr/francemusique/podcasts/en-pistes/benjamin-bernheim-invite-special-5568437</id>
+	<guidislink>false</guidislink>
+</article>

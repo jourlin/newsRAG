@@ -156,8 +156,8 @@ class Toolkit:
             chat_mode="context",
             memory=self.memory,
             system_prompt=(
-                "You are a chatbot, able to have normal interactions, as well as talk"
-                " about news."
+                "Tu es un chatbot qui peut avoir des conversations d'ordre générale et discuter"
+                " en particulier autour de l'actualité. Répond en français."
             ),
         )
         # If needed, makes data directories
@@ -223,7 +223,7 @@ class Toolkit:
         result = store.search(embedding_data=query, embedding_function=self.embed_model.get_text_embedding, k=self.span_top_k)
         # Get retrieved filenames from Deeplake results
         docname_list ={result['metadata'][offset]['file_path'] for offset in range(0, len(result['metadata']))}
-        print(docname_list)
+        # print(docname_list)
         # Render results as a HTML table
         output="<table><tr><th>Sélection</th>"
         # Column names for XML fields
@@ -466,7 +466,7 @@ class Toolkit:
                         #print(generated_entities)
                         entity_list = generated_entities['entités']
                         for entity in entity_list:
-                            if "Description" in entity and type(entity["Description"]) is str:
+                            if "Nom" in entity and "Description" in entity and type(entity["Description"]) is str:
                                 if entity["Nom"] in entity_desc:
                                     entity_desc[entity["Nom"]]+=entity["Description"]+'\n'
                                 else:

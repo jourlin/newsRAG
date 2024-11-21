@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Mar-a-Lago, théâtre du pouvoir trumpien</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/m-le-mag/rss_full.xml</base>
+		<value>Mar-a-Lago, théâtre du pouvoir trumpien</value>
+	</title_detail>
+	<published>Thu, 14 Nov 2024 18:00:03 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>17</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>319</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Avec la réélection du milliardaire républicain le 5 novembre, sa propriété à Palm Beach, en Floride, est en passe de redevenir la « Maison Blanche d’hiver ».</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/m-le-mag/rss_full.xml</base>
+		<value>Avec la réélection du milliardaire républicain le 5 novembre, sa propriété à Palm Beach, en Floride, est en passe de redevenir la « Maison Blanche d’hiver ».</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/m-le-mag/article/2024/11/14/mar-a-lago-theatre-du-pouvoir-trumpien_6393889_4500055.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/m-le-mag/article/2024/11/14/mar-a-lago-theatre-du-pouvoir-trumpien_6393889_4500055.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/m-le-mag/article/2024/11/14/mar-a-lago-theatre-du-pouvoir-trumpien_6393889_4500055.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/12/122/0/1500/750/644/322/60/0/54980a3_358045-3397547.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/m-le-mag/rss_full.xml</base>
+		<value>Le domaine de Mar-a-Lago, en Floride.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Eric Fenouil</content>
+	</media_credit>
+	<credit>Eric Fenouil</credit>
+</article>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Au Musée Carnavalet, à Paris, les audaces et les rudesses de la Terreur</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>Au Musée Carnavalet, à Paris, les audaces et les rudesses de la Terreur</value>
+	</title_detail>
+	<published>Sat, 16 Nov 2024 08:00:14 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>16</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>14</published_parsed>
+	<published_parsed>5</published_parsed>
+	<published_parsed>321</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Sat, 16 Nov 2024 23:02:50 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>16</updated_parsed>
+	<updated_parsed>22</updated_parsed>
+	<updated_parsed>2</updated_parsed>
+	<updated_parsed>50</updated_parsed>
+	<updated_parsed>5</updated_parsed>
+	<updated_parsed>321</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>L’exposition « Paris 1793-1794 une année révolutionnaire » retrace l’effervescence de la période, son énergie créatrice, la tension qui accompagne les ruptures comme la relance des utopies.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>L’exposition « Paris 1793-1794 une année révolutionnaire » retrace l’effervescence de la période, son énergie créatrice, la tension qui accompagne les ruptures comme la relance des utopies.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/culture/article/2024/11/16/au-musee-carnavalet-a-paris-les-audaces-et-les-rudesses-de-la-terreur_6396576_3246.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/culture/article/2024/11/16/au-musee-carnavalet-a-paris-les-audaces-et-les-rudesses-de-la-terreur_6396576_3246.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/culture/article/2024/11/16/au-musee-carnavalet-a-paris-les-audaces-et-les-rudesses-de-la-terreur_6396576_3246.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/14/825/0/4607/2303/644/322/60/0/a71aa41_1731578547166-3-attribuei-ai-fougeat-pompe-funei-bre-de-marat-dans-la-ancienne-ei-glise-des-cordeliers-ou-funei-railles-de-marat-ai-la-ei-glise-des-cordeliers-les-15-et-16-juillet-1793.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/arts/rss_full.xml</base>
+		<value>« Pompe funèbre de Marat à l'église des Cordeliers, le 16 juillet 1793 », attribué à Fougeat, exposé au salon de 1793.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>FOUGEAT/MUSÉE CARNAVALET/ROGER-VIOLLET</content>
+	</media_credit>
+	<credit>FOUGEAT/MUSÉE CARNAVALET/ROGER-VIOLLET</credit>
+</article>

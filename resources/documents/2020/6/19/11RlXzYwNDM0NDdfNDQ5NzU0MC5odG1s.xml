@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Vins Saint-Emilion : la sélection du « Monde »</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Vins Saint-Emilion : la sélection du « Monde »</value>
+	</title_detail>
+	<published>Fri, 19 Jun 2020 13:41:29 +0200</published>
+	<published_parsed>2020</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>19</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>41</published_parsed>
+	<published_parsed>29</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>171</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Laure Gasparotto et Ophélie Neiman ont retenu une soixantaine de flacons, parmi les quelque 230 goûtés (hors premiers grands crus classés) lors d’une dégustation. Allant de 11 à 99 euros, certains sont prêts à boire, d’autres sont à garder pour mieux les apprécier.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Laure Gasparotto et Ophélie Neiman ont retenu une soixantaine de flacons, parmi les quelque 230 goûtés (hors premiers grands crus classés) lors d’une dégustation. Allant de 11 à 99 euros, certains sont prêts à boire, d’autres sont à garder pour mieux les apprécier.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/m-gastronomie/article/2020/06/19/vins-saint-emilion-la-selection-du-monde_6043447_4497540.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/m-gastronomie/article/2020/06/19/vins-saint-emilion-la-selection-du-monde_6043447_4497540.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/m-gastronomie/article/2020/06/19/vins-saint-emilion-la-selection-du-monde_6043447_4497540.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2020/06/18/504/0/4032/2016/644/322/60/0/9a8a914_o78U6hoqb2NTUxng8rRT7EE4.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/gastronomie/rss_full.xml</base>
+		<value>Château Pontet Saint Brice, 2018. Une heureuse surprise pour un vin d’entrée de gamme.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Château Pontet Saint Brice</content>
+	</media_credit>
+	<credit>Château Pontet Saint Brice</credit>
+</article>

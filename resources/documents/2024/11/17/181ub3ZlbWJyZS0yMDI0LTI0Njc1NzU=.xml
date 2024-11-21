@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Club Jazzafip du dimanche 17 novembre 2024</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/fip/rss</base>
+		<value>Club Jazzafip du dimanche 17 novembre 2024</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/club-jazzafip-du-dimanche-17-novembre-2024-2467575</href>
+	</links>
+	<links>
+		<type>image/jpeg</type>
+		<length>1337</length>
+		<href>https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/03ab3b58-0bed-4a8f-8ee5-51eeec4bc6cd/560x315_sc_betty-carter-jack-vartoogian.jpg</href>
+		<rel>enclosure</rel>
+	</links>
+	<link>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/club-jazzafip-du-dimanche-17-novembre-2024-2467575</link>
+	<summary>De 19h à 20h, ça jazz à fip ! Une animatrice reçoit chaque soir un programmateur pour une émission où s’entremêlent tous les jazz, des grands standards aux artistes émergents…</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/fip/rss</base>
+		<value>De 19h à 20h, ça jazz à fip ! Une animatrice reçoit chaque soir un programmateur pour une émission où s’entremêlent tous les jazz, des grands standards aux artistes émergents…</value>
+	</summary_detail>
+	<published>Sun, 17 Nov 2024 18:00:00 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>17</published_parsed>
+	<published_parsed>18</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>322</published_parsed>
+	<published_parsed>0</published_parsed>
+	<id>https://www.radiofrance.fr/fip/podcasts/club-jazzafip/club-jazzafip-du-dimanche-17-novembre-2024-2467575</id>
+	<guidislink>false</guidislink>
+</article>

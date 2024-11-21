@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>« Avec ton premier salaire, tu entres dans ta vie d’adulte »</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/campus/rss_full.xml</base>
+		<value>« Avec ton premier salaire, tu entres dans ta vie d’adulte »</value>
+	</title_detail>
+	<published>Thu, 21 Nov 2024 07:00:03 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>21</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>3</published_parsed>
+	<published_parsed>326</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Acheter un smartphone, mettre de côté, emmener ses parents au restaurant : les jeunes adultes se souviennent souvent avec précision de comment ils ont dépensé leurs premières paies. Et du choc ressenti quand ils ont acquis leur indépendance financière.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/campus/rss_full.xml</base>
+		<value>Acheter un smartphone, mettre de côté, emmener ses parents au restaurant : les jeunes adultes se souviennent souvent avec précision de comment ils ont dépensé leurs premières paies. Et du choc ressenti quand ils ont acquis leur indépendance financière.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/argent/article/2024/11/21/avec-ton-premier-salaire-tu-entres-dans-ta-vie-d-adulte_6406354_1657007.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/argent/article/2024/11/21/avec-ton-premier-salaire-tu-entres-dans-ta-vie-d-adulte_6406354_1657007.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/argent/article/2024/11/21/avec-ton-premier-salaire-tu-entres-dans-ta-vie-d-adulte_6406354_1657007.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2023/04/17/186/0/3000/1500/644/322/60/0/711be0f_1681718659473-iii.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/campus/rss_full.xml</base>
+		<value>« Chacun se souvient de son premier salaire. Quand je pose la question en cours, mes étudiants se réveillent et partagent leurs souvenirs », confirme la sociologue Hélène Ducourant, enseignante-chercheuse à l’université Gustave-Eiffel.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>« Le Monde »</content>
+	</media_credit>
+	<credit>« Le Monde »</credit>
+</article>

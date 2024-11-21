@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Immobilier et assurance-vie, une alliance fragilisée</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/immobilier/rss_full.xml</base>
+		<value>Immobilier et assurance-vie, une alliance fragilisée</value>
+	</title_detail>
+	<published>Wed, 16 Oct 2024 06:00:12 +0200</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>10</published_parsed>
+	<published_parsed>16</published_parsed>
+	<published_parsed>4</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>12</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>290</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Souscrire des parts de SCPI, les sociétés civiles de placement immobilier, était ces dernières années devenu un réflexe pour qui souhaitait diversifier son contrat d’assurance-vie. La crise que traverse le secteur requiert de la prudence.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/immobilier/rss_full.xml</base>
+		<value>Souscrire des parts de SCPI, les sociétés civiles de placement immobilier, était ces dernières années devenu un réflexe pour qui souhaitait diversifier son contrat d’assurance-vie. La crise que traverse le secteur requiert de la prudence.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/argent/article/2024/10/16/immobilier-et-assurance-vie-une-alliance-fragilisee_6353152_1657007.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/argent/article/2024/10/16/immobilier-et-assurance-vie-une-alliance-fragilisee_6353152_1657007.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/argent/article/2024/10/16/immobilier-et-assurance-vie-une-alliance-fragilisee_6353152_1657007.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2023/04/17/264/21/2962/1481/644/322/60/0/69eb425_1681719509848-immobilier-05.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/immobilier/rss_full.xml</base>
+		<value>Pour les SCPI, sociétés civiles de placement immobilier, le dernier bilan des fonds immobiliers grand public publié en juillet par l’Aspim montre que les voyants sont toujours au rouge.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>« Le Monde »</content>
+	</media_credit>
+	<credit>« Le Monde »</credit>
+</article>

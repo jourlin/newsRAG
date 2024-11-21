@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Warhaus revient avec l'album "Karaoke Moon"</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/fip/rss</base>
+		<value>Warhaus revient avec l'album "Karaoke Moon"</value>
+	</title_detail>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.radiofrance.fr/fip/warhaus-revient-avec-l-album-karaoke-moon-6159373</href>
+	</links>
+	<links>
+		<type>image/jpeg</type>
+		<length>1337</length>
+		<href>https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/77bf6055-99c1-47ab-91ab-f2feece80463/560x315_sc_warhaus-2.jpg</href>
+		<rel>enclosure</rel>
+	</links>
+	<link>https://www.radiofrance.fr/fip/warhaus-revient-avec-l-album-karaoke-moon-6159373</link>
+	<summary>Deux ans après "Ha Ha Heartbreak", le dandy belge Maarten Devoldere poursuit son aventure en solo avec un quatrième album aux arrangements classieux sur lequel il chante l'amour ou se moque de la masculinité.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.radiofrance.fr/fip/rss</base>
+		<value>Deux ans après "Ha Ha Heartbreak", le dandy belge Maarten Devoldere poursuit son aventure en solo avec un quatrième album aux arrangements classieux sur lequel il chante l'amour ou se moque de la masculinité.</value>
+	</summary_detail>
+	<published>Wed, 20 Nov 2024 12:51:34 +0000</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>20</published_parsed>
+	<published_parsed>12</published_parsed>
+	<published_parsed>51</published_parsed>
+	<published_parsed>34</published_parsed>
+	<published_parsed>2</published_parsed>
+	<published_parsed>325</published_parsed>
+	<published_parsed>0</published_parsed>
+	<id>https://www.radiofrance.fr/fip/warhaus-revient-avec-l-album-karaoke-moon-6159373</id>
+	<guidislink>false</guidislink>
+</article>

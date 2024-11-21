@@ -151,7 +151,7 @@ let eventSource;
         function append_docs(doc) {
             // append doc ID to query text
             var target_output = document.getElementById("docs");
-            if (concept.checked) {
+            if (doc.checked) {
                 // add doc ID
                 target_output.value+=" "+doc.id
             } else {

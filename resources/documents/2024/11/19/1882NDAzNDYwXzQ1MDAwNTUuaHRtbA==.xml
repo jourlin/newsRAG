@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>La rappeuse Shay enchaîne les shows chatoyants</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/musiques/rss_full.xml</base>
+		<value>La rappeuse Shay enchaîne les shows chatoyants</value>
+	</title_detail>
+	<published>Tue, 19 Nov 2024 19:00:07 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>19</published_parsed>
+	<published_parsed>18</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>7</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>324</published_parsed>
+	<published_parsed>0</published_parsed>
+	<summary>Pour ses débuts sur scène, l’artiste belge de 32 ans a imaginé un spectacle différent à chaque concert. Un cycle qui s’est ouvert à l’Olympia et se poursuit les 21 et 22 novembre au Zénith de Paris.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/musiques/rss_full.xml</base>
+		<value>Pour ses débuts sur scène, l’artiste belge de 32 ans a imaginé un spectacle différent à chaque concert. Un cycle qui s’est ouvert à l’Olympia et se poursuit les 21 et 22 novembre au Zénith de Paris.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/m-le-mag/article/2024/11/19/la-rappeuse-shay-enchaine-les-shows-chatoyants_6403460_4500055.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/m-le-mag/article/2024/11/19/la-rappeuse-shay-enchaine-les-shows-chatoyants_6403460_4500055.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/m-le-mag/article/2024/11/19/la-rappeuse-shay-enchaine-les-shows-chatoyants_6403460_4500055.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2024/11/15/234/0/1500/750/644/322/60/0/580eb5b_358750-3397510.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/musiques/rss_full.xml</base>
+		<value>Shay au festival We Love Green, à Vincennes, le 31 mai 2024.</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>Maxime Chermat</content>
+	</media_credit>
+	<credit>Maxime Chermat</credit>
+</article>

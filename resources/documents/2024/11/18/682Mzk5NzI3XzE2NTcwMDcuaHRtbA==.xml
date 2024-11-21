@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article>
+	<title>Vers quelle épargne se tournent les jeunes ?</title>
+	<title_detail>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/argent/rss_full.xml</base>
+		<value>Vers quelle épargne se tournent les jeunes ?</value>
+	</title_detail>
+	<published>Mon, 18 Nov 2024 07:00:01 +0100</published>
+	<published_parsed>2024</published_parsed>
+	<published_parsed>11</published_parsed>
+	<published_parsed>18</published_parsed>
+	<published_parsed>6</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>1</published_parsed>
+	<published_parsed>0</published_parsed>
+	<published_parsed>323</published_parsed>
+	<published_parsed>0</published_parsed>
+	<updated>Mon, 18 Nov 2024 14:56:33 +0100</updated>
+	<updated_parsed>2024</updated_parsed>
+	<updated_parsed>11</updated_parsed>
+	<updated_parsed>18</updated_parsed>
+	<updated_parsed>13</updated_parsed>
+	<updated_parsed>56</updated_parsed>
+	<updated_parsed>33</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<updated_parsed>323</updated_parsed>
+	<updated_parsed>0</updated_parsed>
+	<summary>Les moins de 35 ans optent pour les ETF, les SCPI et même les plans d’épargne-retraite, attirés par la performance financière et les avantages fiscaux.</summary>
+	<summary_detail>
+		<type>text/html</type>
+		<language></language>
+		<base>https://www.lemonde.fr/argent/rss_full.xml</base>
+		<value>Les moins de 35 ans optent pour les ETF, les SCPI et même les plans d’épargne-retraite, attirés par la performance financière et les avantages fiscaux.</value>
+	</summary_detail>
+	<id>https://www.lemonde.fr/argent/article/2024/11/18/vers-quelle-epargne-se-tournent-les-jeunes_6399727_1657007.html</id>
+	<guidislink>true</guidislink>
+	<link>https://www.lemonde.fr/argent/article/2024/11/18/vers-quelle-epargne-se-tournent-les-jeunes_6399727_1657007.html</link>
+	<links>
+		<rel>alternate</rel>
+		<type>text/html</type>
+		<href>https://www.lemonde.fr/argent/article/2024/11/18/vers-quelle-epargne-se-tournent-les-jeunes_6399727_1657007.html</href>
+	</links>
+	<media_content>
+		<width>644</width>
+		<height>322</height>
+		<url>https://img.lemde.fr/2023/04/17/269/0/3000/1500/644/322/60/0/587d710_1681719505161-argent-04.jpg</url>
+	</media_content>
+	<content>
+		<type>text/plain</type>
+		<language></language>
+		<base>https://www.lemonde.fr/argent/rss_full.xml</base>
+		<value>Les jeunes sont-ils plus audacieux et plus ouverts aux nouveaux produits financiers que leurs aînés ?</value>
+	</content>
+	<media_credit>
+		<scheme>urn:ebu</scheme>
+		<content>« Le Monde »</content>
+	</media_credit>
+	<credit>« Le Monde »</credit>
+</article>
