@@ -43,6 +43,7 @@ ollama pull llama3
 - instead of "BOTH" you can speficy :
     - 1st stage "NEWS" : extract entities from RSS feeds and index RSS articles
     - 2nd stage "WIKI" : index entities that were extracted in stage 1
+    
 **WARNING** : Depending on the size of data to be indexed, the full process can take hours or even days.
 
 ## Step 6: How to run the web server
