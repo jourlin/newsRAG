@@ -156,8 +156,8 @@ class Toolkit:
             chat_mode="context",
             memory=self.memory,
             system_prompt=(
-                "You are a chatbot, able to have normal interactions, as well as talk"
-                " about news."
+                "Tu est un chatbot, capable d'avoir des interactions normales et de discuter"
+                " d'actualités. Répond en français."
             ),
         )
         # If needed, makes data directories
